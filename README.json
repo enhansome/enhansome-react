@@ -1,1926 +1,2073 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cheatsheets for experienced React developers getting started with TypeScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135786093,
+                "language": "TypeScript",
+                "last_commit": "2026-05-29T19:52:44Z",
+                "owner": "typescript-cheatsheets",
+                "repo": "react",
+                "stars": 47100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Interview Questions & Answers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135614069,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T07:21:33Z",
+                "owner": "sudheerj",
+                "repo": "reactjs-interview-questions",
+                "stars": 44739
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A simple, scalable, and powerful architecture for building production ready React applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372240402,
+                "language": "TypeScript",
+                "last_commit": "2026-05-14T13:53:04Z",
+                "owner": "alan2207",
+                "repo": "bulletproof-react",
+                "stars": 35717
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "next",
+              "description": "The React Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70107786,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T12:42:37Z",
+                "owner": "vercel",
+                "repo": "next.js",
+                "stars": 141864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gatsby",
+              "description": "Build modern websites with React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36040894,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T11:32:21Z",
+                "owner": "gatsbyjs",
+                "repo": "gatsby",
+                "stars": 55944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "refine",
+              "description": "Build your React-based CRUD applications, without constraints",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331293626,
+                "language": "TypeScript",
+                "last_commit": "2026-06-05T15:19:38Z",
+                "owner": "refinedev",
+                "repo": "refine",
+                "stars": 35533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "remix",
+              "description": "Full-stack web Framework that lets you focus on the user interface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307489284,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T23:48:59Z",
+                "owner": "remix-run",
+                "repo": "remix",
+                "stars": 33310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-admin",
+              "description": "A frontend Framework for building B2B applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63226588,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T12:00:10Z",
+                "owner": "marmelab",
+                "repo": "react-admin",
+                "stars": 26897
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vike",
+              "description": "The Modular Framework - Next.js & Nuxt alternative",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333723456,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T01:41:34Z",
+                "owner": "vikejs",
+                "repo": "vike",
+                "stars": 5807
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shadcn-ui",
+              "description": "Beautifully designed components built using Radix UI and Tailwind CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585146387,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T02:51:52Z",
+                "owner": "shadcn-ui",
+                "repo": "ui",
+                "stars": 121635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ant-design",
+              "description": "An enterprise-class UI design language and React UI library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34526884,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:53:43Z",
+                "owner": "ant-design",
+                "repo": "ant-design",
+                "stars": 99117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-ui",
+              "description": "Ready-to-use foundational React components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23083156,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T09:19:22Z",
+                "owner": "mui",
+                "repo": "material-ui",
+                "stars": 98862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-bits",
+              "description": "A collection of animated, interactive & fully customizable React components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 838695230,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T05:27:08Z",
+                "owner": "DavidHDev",
+                "repo": "react-bits",
+                "stars": 45793
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chakra-ui",
+              "description": "Component system for building SaaS products with speed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202890778,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T10:19:10Z",
+                "owner": "chakra-ui",
+                "repo": "chakra-ui",
+                "stars": 40583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mantine",
+              "description": "Fully featured React components library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327628682,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T07:00:21Z",
+                "owner": "mantinedev",
+                "repo": "mantine",
+                "stars": 31578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "headlessui",
+              "description": "Completely unstyled, accessible UI components for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295992065,
+                "language": "TypeScript",
+                "last_commit": "2026-04-13T16:12:31Z",
+                "owner": "tailwindlabs",
+                "repo": "headlessui",
+                "stars": 28710
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-bootstrap",
+              "description": "Bootstrap components built with React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15480067,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T21:35:46Z",
+                "owner": "react-bootstrap",
+                "repo": "react-bootstrap",
+                "stars": 22611
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluentui",
+              "description": "Microsoft's Fluent UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60537144,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:44:03Z",
+                "owner": "microsoft",
+                "repo": "fluentui",
+                "stars": 20217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-email",
+              "description": "Unstyled components for creating beautiful emails",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538663825,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T14:15:18Z",
+                "owner": "resend",
+                "repo": "react-email",
+                "stars": 19632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "framework7",
+              "description": "Full featured HTML framework for building iOS & Android apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17107479,
+                "language": "JavaScript",
+                "last_commit": "2026-07-28T21:48:39Z",
+                "owner": "framework7io",
+                "repo": "framework7",
+                "stars": 18742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ariakit",
+              "description": "Toolkit for building accessible web apps with React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104133653,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:47:51Z",
+                "owner": "ariakit",
+                "repo": "ariakit",
+                "stars": 8597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "8bitcn-ui",
+              "description": "A retro 8-bit themed React component library built on top of shadcn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 956053274,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T12:42:00Z",
+                "owner": "TheOrcDev",
+                "repo": "8bitcn-ui",
+                "stars": 1994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruixen-ui",
+              "description": "Modern, lightweight React component library with elegant design",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1050582591,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T18:02:35Z",
+                "owner": "ruixenui",
+                "repo": "ruixen.com",
+                "stars": 201
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Component Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "redux",
+              "description": "Predictable State Container for JavaScript Apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36535156,
+                "language": "TypeScript",
+                "last_commit": "2026-08-02T00:52:12Z",
+                "owner": "reduxjs",
+                "repo": "redux",
+                "stars": 61508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zustand",
+              "description": "Bear necessities for state management in React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180328715,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:38:15Z",
+                "owner": "pmndrs",
+                "repo": "zustand",
+                "stars": 58584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tanstack-query",
+              "description": "Powerful asynchronous state management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207645083,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:11:14Z",
+                "owner": "TanStack",
+                "repo": "query",
+                "stars": 50164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immutable-js",
+              "description": "Immutable persistent data collections for JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21413198,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T09:22:33Z",
+                "owner": "immutable-js",
+                "repo": "immutable-js",
+                "stars": 33039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swr",
+              "description": "React Hooks for Data Fetching",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218115303,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T17:10:47Z",
+                "owner": "vercel",
+                "repo": "swr",
+                "stars": 32459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xstate",
+              "description": "State machines and statecharts for the modern web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42455934,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T04:35:40Z",
+                "owner": "statelyai",
+                "repo": "xstate",
+                "stars": 30032
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "immer",
+              "description": "Create the next immutable state by mutating the current one",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115720575,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T07:57:23Z",
+                "owner": "immerjs",
+                "repo": "immer",
+                "stars": 28980
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mobx",
+              "description": "Simple, scalable state management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32215970,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:21:09Z",
+                "owner": "mobxjs",
+                "repo": "mobx",
+                "stars": 28203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rxdb",
+              "description": "A fast, offline-first, reactive database for JavaScript Applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75425073,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:47:57Z",
+                "owner": "pubkey",
+                "repo": "rxdb",
+                "stars": 23354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jotai",
+              "description": "Primitive and flexible state management for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286867459,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T01:20:06Z",
+                "owner": "pmndrs",
+                "repo": "jotai",
+                "stars": 21240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apollo-client",
+              "description": "A fully-featured, production ready caching GraphQL client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52630616,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T03:40:20Z",
+                "owner": "apollographql",
+                "repo": "apollo-client",
+                "stars": 19807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "relay",
+              "description": "A framework for building data-driven React applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40508605,
+                "language": "Rust",
+                "last_commit": "2026-08-19T00:11:25Z",
+                "owner": "facebook",
+                "repo": "relay",
+                "stars": 18955
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "effector",
+              "description": "Business logic with ease",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123197392,
+                "language": "TypeScript",
+                "last_commit": "2026-07-25T00:21:18Z",
+                "owner": "effector",
+                "repo": "effector",
+                "stars": 4846
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React State Management and Data Fetching"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "styled-components",
+              "description": "Visual primitives for the component age",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65794292,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T17:53:56Z",
+                "owner": "styled-components",
+                "repo": "styled-components",
+                "stars": 41121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emotion",
+              "description": "CSS-in-JS library designed for high performance style composition",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92570536,
+                "language": "JavaScript",
+                "last_commit": "2026-05-06T07:42:22Z",
+                "owner": "emotion-js",
+                "repo": "emotion",
+                "stars": 18015
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vanilla-extract",
+              "description": "Zero-runtime Stylesheets-in-TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351669095,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T00:43:17Z",
+                "owner": "vanilla-extract-css",
+                "repo": "vanilla-extract",
+                "stars": 10407
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Styling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lucide-react",
+              "description": "Beautiful & consistent icon toolkit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270722949,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:11:26Z",
+                "owner": "lucide-icons",
+                "repo": "lucide",
+                "stars": 24038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "heroicons",
+              "description": "Beautiful hand-crafted SVG icons by the makers of Tailwind CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242754476,
+                "language": "JavaScript",
+                "last_commit": "2026-05-12T13:51:18Z",
+                "owner": "tailwindlabs",
+                "repo": "heroicons",
+                "stars": 23751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-icons",
+              "description": "SVG React icons of popular icon packs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44812159,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T09:38:49Z",
+                "owner": "react-icons",
+                "repo": "react-icons",
+                "stars": 12620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thesvg",
+              "description": "A collection of free SVG icons for popular brands and technologies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175458728,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T06:13:54Z",
+                "owner": "glincker",
+                "repo": "thesvg",
+                "stars": 2576
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Icon Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-router",
+              "description": "Declarative routing for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19872456,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T20:28:07Z",
+                "owner": "remix-run",
+                "repo": "react-router",
+                "stars": 56556
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tanstack-router",
+              "description": "Type-safe router with built-in caching & URL state management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165670309,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:55:52Z",
+                "owner": "TanStack",
+                "repo": "router",
+                "stars": 14963
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Routing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vite",
+              "description": "Next Generation Frontend Tooling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257485422,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:16:23Z",
+                "owner": "vitejs",
+                "repo": "vite",
+                "stars": 82407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parcel",
+              "description": "The zero configuration build tool for the web",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99598595,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T04:30:08Z",
+                "owner": "parcel-bundler",
+                "repo": "parcel",
+                "stars": 44019
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-scan",
+              "description": "Scan for React performance issues and eliminate slow renders in your app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 851321035,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T09:23:35Z",
+                "owner": "aidenybai",
+                "repo": "react-scan",
+                "stars": 21784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reactotron",
+              "description": "A desktop app for inspecting your React and React Native projects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56352157,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T22:50:44Z",
+                "owner": "infinitered",
+                "repo": "reactotron",
+                "stars": 15579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "why-did-you-render",
+              "description": "Monkey patches React to notify you about avoidable re-renders",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157014461,
+                "language": "JavaScript",
+                "last_commit": "2026-04-15T11:11:13Z",
+                "owner": "welldone-software",
+                "repo": "why-did-you-render",
+                "stars": 12512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eslint-plugin-react",
+              "description": "React specific linting rules for ESLint",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28061676,
+                "language": "JavaScript",
+                "last_commit": "2026-07-30T05:32:25Z",
+                "owner": "jsx-eslint",
+                "repo": "eslint-plugin-react",
+                "stars": 9293
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Development Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "preact",
+              "description": "Fast React alternative with the same modern API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42283287,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T09:39:32Z",
+                "owner": "preactjs",
+                "repo": "preact",
+                "stars": 38823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "floating-ui",
+              "description": "Toolkit to create floating elements",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54994103,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T10:46:11Z",
+                "owner": "floating-ui",
+                "repo": "floating-ui",
+                "stars": 32700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ai-sdk",
+              "description": "The AI Toolkit for TypeScript and React from the creators of Next.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644461337,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:19:30Z",
+                "owner": "vercel",
+                "repo": "ai",
+                "stars": 26293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "downshift",
+              "description": "React autocomplete, combobox or select dropdown components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98315735,
+                "language": "JavaScript",
+                "last_commit": "2026-06-30T07:36:06Z",
+                "owner": "downshift-js",
+                "repo": "downshift",
+                "stars": 12310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-error-boundary",
+              "description": "A React error boundary component that lets you catch errors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97559842,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T16:31:41Z",
+                "owner": "bvaughn",
+                "repo": "react-error-boundary",
+                "stars": 7981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "loadable-components",
+              "description": "The recommended Code Splitting library for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95196818,
+                "language": "JavaScript",
+                "last_commit": "2025-05-18T01:23:54Z",
+                "owner": "gregberge",
+                "repo": "loadable-components",
+                "stars": 7801
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-uploady",
+              "description": "Modern file-upload components & hooks for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221179329,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T09:15:14Z",
+                "owner": "rpldy",
+                "repo": "react-uploady",
+                "stars": 1247
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "playwright",
+              "description": "A framework for Web Testing and Automation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221981891,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:44:48Z",
+                "owner": "microsoft",
+                "repo": "playwright",
+                "stars": 94732
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cypress",
+              "description": "Fast, easy and reliable testing for anything that runs in a browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31629751,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:14:33Z",
+                "owner": "cypress-io",
+                "repo": "cypress",
+                "stars": 50981
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jest",
+              "description": "Delightful JavaScript Testing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15062869,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T07:13:08Z",
+                "owner": "jestjs",
+                "repo": "jest",
+                "stars": 45469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-testing-library",
+              "description": "Simple and complete React DOM testing utilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125863507,
+                "language": "JavaScript",
+                "last_commit": "2026-04-02T07:04:36Z",
+                "owner": "testing-library",
+                "repo": "react-testing-library",
+                "stars": 19641
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome React Components",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61893399,
+                "language": null,
+                "last_commit": "2026-01-26T16:36:45Z",
+                "owner": "brillout",
+                "repo": "awesome-react-components",
+                "stars": 48226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swiper",
+              "description": "Most modern mobile touch slider",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3721224,
+                "language": "TypeScript",
+                "last_commit": "2026-08-06T16:44:44Z",
+                "owner": "nolimits4web",
+                "repo": "swiper",
+                "stars": 41883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-select",
+              "description": "The Select Component for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23338716,
+                "language": "TypeScript",
+                "last_commit": "2026-07-16T13:58:10Z",
+                "owner": "JedWatson",
+                "repo": "react-select",
+                "stars": 28037
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "puck",
+              "description": "The visual editor for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648629873,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T05:33:08Z",
+                "owner": "puckeditor",
+                "repo": "puck",
+                "stars": 13164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-hot-toast",
+              "description": "Lightweight and customizable toast notifications for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319456369,
+                "language": "TypeScript",
+                "last_commit": "2025-08-16T12:19:29Z",
+                "owner": "timolins",
+                "repo": "react-hot-toast",
+                "stars": 10968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-big-calendar",
+              "description": "Calendar component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41187219,
+                "language": "JavaScript",
+                "last_commit": "2026-06-01T02:34:37Z",
+                "owner": "bigcalendar",
+                "repo": "react-big-calendar",
+                "stars": 8736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-datepicker",
+              "description": "A simple and reusable datepicker component for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21088356,
+                "language": "TypeScript",
+                "last_commit": "2026-04-02T08:36:28Z",
+                "owner": "Hacker0x01",
+                "repo": "react-datepicker",
+                "stars": 8384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kbar",
+              "description": "Fast, portable, and extensible cmd+k interface for your site",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402205905,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T16:00:36Z",
+                "owner": "timc1",
+                "repo": "kbar",
+                "stars": 5244
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keen-slider",
+              "description": "The Touch slider carousel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254369624,
+                "language": "TypeScript",
+                "last_commit": "2026-01-22T00:15:07Z",
+                "owner": "rcbyr",
+                "repo": "keen-slider",
+                "stars": 5025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-qrcode",
+              "description": "QR component for use with React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17810823,
+                "language": "TypeScript",
+                "last_commit": "2026-07-17T06:43:02Z",
+                "owner": "zpao",
+                "repo": "qrcode.react",
+                "stars": 4281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tagify",
+              "description": "Lightweight, efficient Tags input component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70848287,
+                "language": "HTML",
+                "last_commit": "2026-06-27T14:28:39Z",
+                "owner": "yairEO",
+                "repo": "tagify",
+                "stars": 3891
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-insta-stories",
+              "description": "A React component for Instagram like stories",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167136952,
+                "language": "TypeScript",
+                "last_commit": "2025-01-27T18:48:17Z",
+                "owner": "mohitk05",
+                "repo": "react-insta-stories",
+                "stars": 1485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-complex-tree",
+              "description": "Unopinionated Accessible Tree",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367413306,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T08:12:25Z",
+                "owner": "lukasbach",
+                "repo": "react-complex-tree",
+                "stars": 1381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-archer",
+              "description": "Draw arrows between React elements",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123142926,
+                "language": "TypeScript",
+                "last_commit": "2026-06-05T17:09:07Z",
+                "owner": "pierpo",
+                "repo": "react-archer",
+                "stars": 1341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "json-edit-react",
+              "description": "Highly configurable JSON/Object tree editor/viewer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638700752,
+                "language": "TypeScript",
+                "last_commit": "2026-07-02T01:47:54Z",
+                "owner": "CarlosNZ",
+                "repo": "json-edit-react",
+                "stars": 641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "heart-switch",
+              "description": "A heart-shaped toggle switch component for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 460099036,
+                "language": "TypeScript",
+                "last_commit": "2023-06-05T11:20:03Z",
+                "owner": "anatoliygatt",
+                "repo": "heart-switch",
+                "stars": 451
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Awesome Components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "storybook",
+              "description": "Storybook is a frontend workshop for building UI components and pages in isolation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54173593,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:44:35Z",
+                "owner": "storybookjs",
+                "repo": "storybook",
+                "stars": 90875
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bit",
+              "description": "A build system for development of composable software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79723839,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:43:37Z",
+                "owner": "teambit",
+                "repo": "bit",
+                "stars": 18457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-cosmos",
+              "description": "Dev tool for creating reusable React components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16554395,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T19:36:17Z",
+                "owner": "react-cosmos",
+                "repo": "react-cosmos",
+                "stars": 8687
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Components Sandboxes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-hook-form",
+              "description": "React Hooks for form state management and validation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174038031,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T11:54:09Z",
+                "owner": "react-hook-form",
+                "repo": "react-hook-form",
+                "stars": 44821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-jsonschema-form",
+              "description": "A React component for building Web forms from JSON Schema",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48117679,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:25:53Z",
+                "owner": "rjsf-team",
+                "repo": "react-jsonschema-form",
+                "stars": 15870
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "formily",
+              "description": "Alibaba Group Unified Form Solution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164768889,
+                "language": "TypeScript",
+                "last_commit": "2025-06-21T01:46:14Z",
+                "owner": "alibaba",
+                "repo": "formily",
+                "stars": 12562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tanstack-form",
+              "description": "Headless, performant, and type-safe form state management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75044525,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:25:28Z",
+                "owner": "TanStack",
+                "repo": "form",
+                "stars": 6662
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Forms"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tanstack-table",
+              "description": "Headless UI for building powerful tables & datagrids",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71487058,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T22:05:42Z",
+                "owner": "TanStack",
+                "repo": "table",
+                "stars": 28348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-grid-layout",
+              "description": "A draggable and resizable grid layout with responsive breakpoints",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28538501,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T14:05:10Z",
+                "owner": "react-grid-layout",
+                "repo": "react-grid-layout",
+                "stars": 22382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-data-grid",
+              "description": "Feature-rich and customizable data grid React component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31764022,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:54:10Z",
+                "owner": "Comcast",
+                "repo": "react-data-grid",
+                "stars": 7667
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Tables and Grids"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-map-gl",
+              "description": "React friendly API wrapper around MapboxGL JS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43903882,
+                "language": "TypeScript",
+                "last_commit": "2026-08-06T01:25:28Z",
+                "owner": "visgl",
+                "repo": "react-map-gl",
+                "stars": 8486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-leaflet",
+              "description": "React components for Leaflet maps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22571796,
+                "language": "TypeScript",
+                "last_commit": "2025-12-31T13:03:00Z",
+                "owner": "PaulLeCam",
+                "repo": "react-leaflet",
+                "stars": 5596
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Maps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xyflow",
+              "description": "A customizable React component for building node-based editors and interactive diagrams",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197018189,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:35:22Z",
+                "owner": "xyflow",
+                "repo": "xyflow",
+                "stars": 38054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "recharts",
+              "description": "Redefined chart library built with React and D3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40345658,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:18:53Z",
+                "owner": "recharts",
+                "repo": "recharts",
+                "stars": 27507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "visx",
+              "description": "Visualization components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85095608,
+                "language": "TypeScript",
+                "last_commit": "2026-06-22T14:25:22Z",
+                "owner": "airbnb",
+                "repo": "visx",
+                "stars": 21007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nivo",
+              "description": "Provides a rich set of data visualization components built on top of the D3 and React libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56363563,
+                "language": "TypeScript",
+                "last_commit": "2026-07-21T02:46:40Z",
+                "owner": "plouc",
+                "repo": "nivo",
+                "stars": 14085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "victory",
+              "description": "A collection of composable React components for building interactive data visualizations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38460192,
+                "language": "TypeScript",
+                "last_commit": "2025-12-19T23:11:18Z",
+                "owner": "FormidableLabs",
+                "repo": "victory",
+                "stars": 11241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-vis",
+              "description": "Data Visualization Components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52304362,
+                "language": "JavaScript",
+                "last_commit": "2024-12-18T22:24:34Z",
+                "owner": "uber",
+                "repo": "react-vis",
+                "stars": 8784
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Charts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "remotion",
+              "description": "Make videos programmatically with React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274495425,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:47:14Z",
+                "owner": "remotion-dev",
+                "repo": "remotion",
+                "stars": 56807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ink",
+              "description": "React for interactive command-line apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94061307,
+                "language": "TypeScript",
+                "last_commit": "2026-08-12T00:11:46Z",
+                "owner": "vadimdemedes",
+                "repo": "ink",
+                "stars": 39692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-three-fiber",
+              "description": "A React renderer for Three.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172521926,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:38:51Z",
+                "owner": "pmndrs",
+                "repo": "react-three-fiber",
+                "stars": 31738
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-pdf",
+              "description": "Create PDF files using React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71293321,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T23:03:40Z",
+                "owner": "diegomura",
+                "repo": "react-pdf",
+                "stars": 16749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-figma",
+              "description": "A React renderer for Figma",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201732237,
+                "language": "TypeScript",
+                "last_commit": "2026-04-14T01:26:09Z",
+                "owner": "react-figma",
+                "repo": "react-figma",
+                "stars": 2693
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "markdown-to-jsx",
+              "description": "A very fast and versatile markdown toolchain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47486737,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T01:30:22Z",
+                "owner": "quantizor",
+                "repo": "markdown-to-jsx",
+                "stars": 2384
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Renderers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "formatjs",
+              "description": "Internationalize your web apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19117456,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T14:18:42Z",
+                "owner": "formatjs",
+                "repo": "formatjs",
+                "stars": 14744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-i18next",
+              "description": "Internationalization for React done right",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47878060,
+                "language": "JavaScript",
+                "last_commit": "2026-08-08T06:10:35Z",
+                "owner": "i18next",
+                "repo": "react-i18next",
+                "stars": 10035
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-intlayer",
+              "description": "Internationalization focused on maintainability for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776924173,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:10:44Z",
+                "owner": "aymericzip",
+                "repo": "intlayer",
+                "stars": 798
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Internationalization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "framer-motion",
+              "description": "Open source, production-ready animation and gesture library for React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157846876,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T04:58:32Z",
+                "owner": "motiondivision",
+                "repo": "motion",
+                "stars": 33281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-spring",
+              "description": "A spring physics based React animation library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124257233,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T07:54:40Z",
+                "owner": "pmndrs",
+                "repo": "react-spring",
+                "stars": 29133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auto-animate",
+              "description": "A zero-config, drop-in animation utility that adds smooth transitions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 491235501,
+                "language": "TypeScript",
+                "last_commit": "2026-07-10T16:08:00Z",
+                "owner": "formkit",
+                "repo": "auto-animate",
+                "stars": 13901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-tsparticles",
+              "description": "Easily create highly customizable particles effects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238514517,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T07:05:44Z",
+                "owner": "tsparticles",
+                "repo": "tsparticles",
+                "stars": 8956
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simple-parallax-js",
+              "description": "The easiest way to get a parallax effect with React and JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110072462,
+                "language": "TypeScript",
+                "last_commit": "2026-07-14T19:54:04Z",
+                "owner": "geosigno",
+                "repo": "simpleParallax.js",
+                "stars": 2156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-parallax-tilt",
+              "description": "Easily apply tilt hover effect on React components",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201018683,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T16:51:16Z",
+                "owner": "mkosir",
+                "repo": "react-parallax-tilt",
+                "stars": 1078
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Graphics and Animations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rescript-compiler",
+              "description": "A robustly typed language that compiles to efficient and human-readable JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49159983,
+                "language": "ReScript",
+                "last_commit": "2026-08-19T11:05:39Z",
+                "owner": "rescript-lang",
+                "repo": "rescript",
+                "stars": 7433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fulcro",
+              "description": "A library for development of web applications in clj/cljs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97032158,
+                "language": "Clojure",
+                "last_commit": "2026-07-15T18:10:11Z",
+                "owner": "fulcrologic",
+                "repo": "fulcro",
+                "stars": 1611
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Integration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mattermost-server",
+              "description": "An open source platform for secure collaboration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37448451,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:21:39Z",
+                "owner": "mattermost",
+                "repo": "mattermost",
+                "stars": 38840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "readest",
+              "description": "A minimalistic, feature-rich and cross-platform eBook reader",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 871781831,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T19:30:28Z",
+                "owner": "readest",
+                "repo": "readest",
+                "stars": 23547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wave",
+              "description": "An open-source, cross-platform terminal for seamless workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501045649,
+                "language": "Go",
+                "last_commit": "2026-08-11T18:53:52Z",
+                "owner": "wavetermdev",
+                "repo": "waveterm",
+                "stars": 22063
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kibana",
+              "description": "Your window into the Elastic Stack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7833168,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:46:35Z",
+                "owner": "elastic",
+                "repo": "kibana",
+                "stars": 21251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webamp",
+              "description": "Winamp 2 reimplemented for the browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26149893,
+                "language": "TypeScript",
+                "last_commit": "2026-07-31T15:20:41Z",
+                "owner": "captbaritone",
+                "repo": "webamp",
+                "stars": 11222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "overreacted",
+              "description": "Personal blog by Dan Abramov",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159876616,
+                "language": "TypeScript",
+                "last_commit": "2026-07-04T03:29:12Z",
+                "owner": "gaearon",
+                "repo": "overreacted.io",
+                "stars": 7272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "notifuse",
+              "description": "Modern self-hosted emailing platform to send newsletters & transactional emails",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948993169,
+                "language": "Go",
+                "last_commit": "2026-08-18T08:23:57Z",
+                "owner": "Notifuse",
+                "repo": "notifuse",
+                "stars": 2049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bookcars",
+              "description": "Car rental platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 483825268,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T12:28:53Z",
+                "owner": "aelassas",
+                "repo": "bookcars",
+                "stars": 624
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Real Apps"
+        }
+      ],
       "title": "React"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Cheatsheets for experienced React developers getting started with TypeScript",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-native-vector-icons",
+              "description": "Customizable Icons for React Native",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35685034,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T14:35:15Z",
+                "owner": "oblador",
+                "repo": "react-native-vector-icons",
+                "stars": 17906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-native-gifted-chat",
+              "description": "The most complete chat UI for React Native",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46180504,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T17:40:19Z",
+                "owner": "FaridSafi",
+                "repo": "react-native-gifted-chat",
+                "stars": 14442
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-29T19:52:44Z",
-            "owner": "typescript-cheatsheets",
-            "repo": "react",
-            "stars": 47100
-          }
+          "node_type": "group",
+          "title": "React Native Awesome Components"
         },
         {
-          "node_type": "item",
-          "title": "React Interview Questions & Answers",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-native-maps",
+              "description": "React Native Mapview component",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48764652,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T03:06:36Z",
+                "owner": "react-native-maps",
+                "repo": "react-native-maps",
+                "stars": 15989
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-native-device-info",
+              "description": "Device Information for React Native iOS and Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42590985,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T22:52:53Z",
+                "owner": "react-native-device-info",
+                "repo": "react-native-device-info",
+                "stars": 6680
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "realm-js",
+              "description": "A mobile database: an alternative to SQLite & key-value stores",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40667593,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T19:50:56Z",
+                "owner": "realm",
+                "repo": "realm-js",
+                "stars": 6002
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T07:21:33Z",
-            "owner": "sudheerj",
-            "repo": "reactjs-interview-questions",
-            "stars": 44733
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A simple, scalable, and powerful architecture for building production ready React applications",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-14T13:53:04Z",
-            "owner": "alan2207",
-            "repo": "bulletproof-react",
-            "stars": 35710
-          }
+          "node_type": "group",
+          "title": "React Native Libraries"
         }
       ],
-      "title": "React Tutorials"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "next",
-          "description": "The React Framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T15:24:02Z",
-            "owner": "vercel",
-            "repo": "next.js",
-            "stars": 141847
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gatsby",
-          "description": "Build modern websites with React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T00:01:50Z",
-            "owner": "gatsbyjs",
-            "repo": "gatsby",
-            "stars": 55943
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "refine",
-          "description": "Build your React-based CRUD applications, without constraints",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-05T15:19:38Z",
-            "owner": "refinedev",
-            "repo": "refine",
-            "stars": 35526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "remix",
-          "description": "Full-stack web Framework that lets you focus on the user interface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T02:30:35Z",
-            "owner": "remix-run",
-            "repo": "remix",
-            "stars": 33310
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-admin",
-          "description": "A frontend Framework for building B2B applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-09T12:00:10Z",
-            "owner": "marmelab",
-            "repo": "react-admin",
-            "stars": 26895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vike",
-          "description": "The Modular Framework - Next.js & Nuxt alternative",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:25:08Z",
-            "owner": "vikejs",
-            "repo": "vike",
-            "stars": 5807
-          }
-        }
-      ],
-      "title": "React Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "shadcn-ui",
-          "description": "Beautifully designed components built using Radix UI and Tailwind CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T05:50:01Z",
-            "owner": "shadcn-ui",
-            "repo": "ui",
-            "stars": 121566
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ant-design",
-          "description": "An enterprise-class UI design language and React UI library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:55:06Z",
-            "owner": "ant-design",
-            "repo": "ant-design",
-            "stars": 99111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "material-ui",
-          "description": "Ready-to-use foundational React components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T10:11:02Z",
-            "owner": "mui",
-            "repo": "material-ui",
-            "stars": 98852
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-bits",
-          "description": "A collection of animated, interactive & fully customizable React components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T05:27:08Z",
-            "owner": "DavidHDev",
-            "repo": "react-bits",
-            "stars": 45731
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chakra-ui",
-          "description": "Component system for building SaaS products with speed",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:19:10Z",
-            "owner": "chakra-ui",
-            "repo": "chakra-ui",
-            "stars": 40577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mantine",
-          "description": "Fully featured React components library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T07:00:21Z",
-            "owner": "mantinedev",
-            "repo": "mantine",
-            "stars": 31570
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "headlessui",
-          "description": "Completely unstyled, accessible UI components for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-13T16:12:31Z",
-            "owner": "tailwindlabs",
-            "repo": "headlessui",
-            "stars": 28710
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-bootstrap",
-          "description": "Bootstrap components built with React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:53:57Z",
-            "owner": "react-bootstrap",
-            "repo": "react-bootstrap",
-            "stars": 22612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fluentui",
-          "description": "Microsoft's Fluent UI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:18:08Z",
-            "owner": "microsoft",
-            "repo": "fluentui",
-            "stars": 20212
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-email",
-          "description": "Unstyled components for creating beautiful emails",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T14:15:18Z",
-            "owner": "resend",
-            "repo": "react-email",
-            "stars": 19627
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "framework7",
-          "description": "Full featured HTML framework for building iOS & Android apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-28T21:48:39Z",
-            "owner": "framework7io",
-            "repo": "framework7",
-            "stars": 18742
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ariakit",
-          "description": "Toolkit for building accessible web apps with React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:32:25Z",
-            "owner": "ariakit",
-            "repo": "ariakit",
-            "stars": 8597
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "8bitcn-ui",
-          "description": "A retro 8-bit themed React component library built on top of shadcn",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T12:42:00Z",
-            "owner": "TheOrcDev",
-            "repo": "8bitcn-ui",
-            "stars": 1991
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ruixen-ui",
-          "description": "Modern, lightweight React component library with elegant design",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-08T18:02:35Z",
-            "owner": "ruixenui",
-            "repo": "ruixen.com",
-            "stars": 201
-          }
-        }
-      ],
-      "title": "React Component Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "redux",
-          "description": "Predictable State Container for JavaScript Apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-02T00:52:12Z",
-            "owner": "reduxjs",
-            "repo": "redux",
-            "stars": 61509
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zustand",
-          "description": "Bear necessities for state management in React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:31:47Z",
-            "owner": "pmndrs",
-            "repo": "zustand",
-            "stars": 58583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tanstack-query",
-          "description": "Powerful asynchronous state management",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:58:20Z",
-            "owner": "TanStack",
-            "repo": "query",
-            "stars": 50152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "immutable-js",
-          "description": "Immutable persistent data collections for JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:22:33Z",
-            "owner": "immutable-js",
-            "repo": "immutable-js",
-            "stars": 33039
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "swr",
-          "description": "React Hooks for Data Fetching",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T17:10:47Z",
-            "owner": "vercel",
-            "repo": "swr",
-            "stars": 32455
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xstate",
-          "description": "State machines and statecharts for the modern web",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T03:33:55Z",
-            "owner": "statelyai",
-            "repo": "xstate",
-            "stars": 30025
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "immer",
-          "description": "Create the next immutable state by mutating the current one",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T03:11:09Z",
-            "owner": "immerjs",
-            "repo": "immer",
-            "stars": 28978
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mobx",
-          "description": "Simple, scalable state management",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T02:12:22Z",
-            "owner": "mobxjs",
-            "repo": "mobx",
-            "stars": 28202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rxdb",
-          "description": "A fast, offline-first, reactive database for JavaScript Applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:13:36Z",
-            "owner": "pubkey",
-            "repo": "rxdb",
-            "stars": 23352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jotai",
-          "description": "Primitive and flexible state management for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T01:20:06Z",
-            "owner": "pmndrs",
-            "repo": "jotai",
-            "stars": 21237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apollo-client",
-          "description": "A fully-featured, production ready caching GraphQL client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T20:23:31Z",
-            "owner": "apollographql",
-            "repo": "apollo-client",
-            "stars": 19807
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "relay",
-          "description": "A framework for building data-driven React applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T05:04:44Z",
-            "owner": "facebook",
-            "repo": "relay",
-            "stars": 18954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "effector",
-          "description": "Business logic with ease",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-25T00:21:18Z",
-            "owner": "effector",
-            "repo": "effector",
-            "stars": 4846
-          }
-        }
-      ],
-      "title": "React State Management and Data Fetching"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "styled-components",
-          "description": "Visual primitives for the component age",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T17:53:56Z",
-            "owner": "styled-components",
-            "repo": "styled-components",
-            "stars": 41119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emotion",
-          "description": "CSS-in-JS library designed for high performance style composition",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-06T07:42:22Z",
-            "owner": "emotion-js",
-            "repo": "emotion",
-            "stars": 18015
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vanilla-extract",
-          "description": "Zero-runtime Stylesheets-in-TypeScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T00:43:17Z",
-            "owner": "vanilla-extract-css",
-            "repo": "vanilla-extract",
-            "stars": 10408
-          }
-        }
-      ],
-      "title": "React Styling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lucide-react",
-          "description": "Beautiful & consistent icon toolkit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:55:10Z",
-            "owner": "lucide-icons",
-            "repo": "lucide",
-            "stars": 24017
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "heroicons",
-          "description": "Beautiful hand-crafted SVG icons by the makers of Tailwind CSS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-12T13:51:18Z",
-            "owner": "tailwindlabs",
-            "repo": "heroicons",
-            "stars": 23748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-icons",
-          "description": "SVG React icons of popular icon packs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T09:38:49Z",
-            "owner": "react-icons",
-            "repo": "react-icons",
-            "stars": 12617
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thesvg",
-          "description": "A collection of free SVG icons for popular brands and technologies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T06:13:54Z",
-            "owner": "glincker",
-            "repo": "thesvg",
-            "stars": 2569
-          }
-        }
-      ],
-      "title": "React Icon Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "react-router",
-          "description": "Declarative routing for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:55:45Z",
-            "owner": "remix-run",
-            "repo": "react-router",
-            "stars": 56554
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tanstack-router",
-          "description": "Type-safe router with built-in caching & URL state management",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:18:19Z",
-            "owner": "TanStack",
-            "repo": "router",
-            "stars": 14959
-          }
-        }
-      ],
-      "title": "React Routing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "vite",
-          "description": "Next Generation Frontend Tooling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:12:59Z",
-            "owner": "vitejs",
-            "repo": "vite",
-            "stars": 82391
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parcel",
-          "description": "The zero configuration build tool for the web",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T04:30:08Z",
-            "owner": "parcel-bundler",
-            "repo": "parcel",
-            "stars": 44018
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-scan",
-          "description": "Scan for React performance issues and eliminate slow renders in your app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T09:23:35Z",
-            "owner": "aidenybai",
-            "repo": "react-scan",
-            "stars": 21781
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reactotron",
-          "description": "A desktop app for inspecting your React and React Native projects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T22:50:44Z",
-            "owner": "infinitered",
-            "repo": "reactotron",
-            "stars": 15579
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "why-did-you-render",
-          "description": "Monkey patches React to notify you about avoidable re-renders",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-15T11:11:13Z",
-            "owner": "welldone-software",
-            "repo": "why-did-you-render",
-            "stars": 12512
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eslint-plugin-react",
-          "description": "React specific linting rules for ESLint",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-30T05:32:25Z",
-            "owner": "jsx-eslint",
-            "repo": "eslint-plugin-react",
-            "stars": 9293
-          }
-        }
-      ],
-      "title": "React Development Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "preact",
-          "description": "Fast React alternative with the same modern API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T09:39:32Z",
-            "owner": "preactjs",
-            "repo": "preact",
-            "stars": 38818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "floating-ui",
-          "description": "Toolkit to create floating elements",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-09T10:46:11Z",
-            "owner": "floating-ui",
-            "repo": "floating-ui",
-            "stars": 32700
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ai-sdk",
-          "description": "The AI Toolkit for TypeScript and React from the creators of Next.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:11:28Z",
-            "owner": "vercel",
-            "repo": "ai",
-            "stars": 26271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "downshift",
-          "description": "React autocomplete, combobox or select dropdown components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-30T07:36:06Z",
-            "owner": "downshift-js",
-            "repo": "downshift",
-            "stars": 12311
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-error-boundary",
-          "description": "A React error boundary component that lets you catch errors",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T16:31:41Z",
-            "owner": "bvaughn",
-            "repo": "react-error-boundary",
-            "stars": 7980
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "loadable-components",
-          "description": "The recommended Code Splitting library for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-18T01:23:54Z",
-            "owner": "gregberge",
-            "repo": "loadable-components",
-            "stars": 7801
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-uploady",
-          "description": "Modern file-upload components & hooks for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T14:49:26Z",
-            "owner": "rpldy",
-            "repo": "react-uploady",
-            "stars": 1247
-          }
-        }
-      ],
-      "title": "React Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "playwright",
-          "description": "A framework for Web Testing and Automation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T06:48:24Z",
-            "owner": "microsoft",
-            "repo": "playwright",
-            "stars": 94684
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cypress",
-          "description": "Fast, easy and reliable testing for anything that runs in a browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:20:14Z",
-            "owner": "cypress-io",
-            "repo": "cypress",
-            "stars": 50980
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jest",
-          "description": "Delightful JavaScript Testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:13:11Z",
-            "owner": "jestjs",
-            "repo": "jest",
-            "stars": 45468
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-testing-library",
-          "description": "Simple and complete React DOM testing utilities",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-02T07:04:36Z",
-            "owner": "testing-library",
-            "repo": "react-testing-library",
-            "stars": 19640
-          }
-        }
-      ],
-      "title": "React Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome React Components",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-26T16:36:45Z",
-            "owner": "brillout",
-            "repo": "awesome-react-components",
-            "stars": 48219
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "swiper",
-          "description": "Most modern mobile touch slider",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-06T16:44:44Z",
-            "owner": "nolimits4web",
-            "repo": "swiper",
-            "stars": 41880
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-select",
-          "description": "The Select Component for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-16T13:58:10Z",
-            "owner": "JedWatson",
-            "repo": "react-select",
-            "stars": 28037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "puck",
-          "description": "The visual editor for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:48:16Z",
-            "owner": "puckeditor",
-            "repo": "puck",
-            "stars": 13158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-hot-toast",
-          "description": "Lightweight and customizable toast notifications for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-08-16T12:19:29Z",
-            "owner": "timolins",
-            "repo": "react-hot-toast",
-            "stars": 10967
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-big-calendar",
-          "description": "Calendar component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-01T02:34:37Z",
-            "owner": "bigcalendar",
-            "repo": "react-big-calendar",
-            "stars": 8737
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-datepicker",
-          "description": "A simple and reusable datepicker component for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-02T08:36:28Z",
-            "owner": "Hacker0x01",
-            "repo": "react-datepicker",
-            "stars": 8383
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kbar",
-          "description": "Fast, portable, and extensible cmd+k interface for your site",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T16:00:36Z",
-            "owner": "timc1",
-            "repo": "kbar",
-            "stars": 5242
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keen-slider",
-          "description": "The Touch slider carousel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-22T00:15:07Z",
-            "owner": "rcbyr",
-            "repo": "keen-slider",
-            "stars": 5026
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-qrcode",
-          "description": "QR component for use with React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-17T06:43:02Z",
-            "owner": "zpao",
-            "repo": "qrcode.react",
-            "stars": 4281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tagify",
-          "description": "Lightweight, efficient Tags input component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-27T14:28:39Z",
-            "owner": "yairEO",
-            "repo": "tagify",
-            "stars": 3891
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-insta-stories",
-          "description": "A React component for Instagram like stories",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-27T18:48:17Z",
-            "owner": "mohitk05",
-            "repo": "react-insta-stories",
-            "stars": 1485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-complex-tree",
-          "description": "Unopinionated Accessible Tree",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T08:12:25Z",
-            "owner": "lukasbach",
-            "repo": "react-complex-tree",
-            "stars": 1381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-archer",
-          "description": "Draw arrows between React elements",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-05T17:09:07Z",
-            "owner": "pierpo",
-            "repo": "react-archer",
-            "stars": 1341
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "json-edit-react",
-          "description": "Highly configurable JSON/Object tree editor/viewer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-02T01:47:54Z",
-            "owner": "CarlosNZ",
-            "repo": "json-edit-react",
-            "stars": 641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "heart-switch",
-          "description": "A heart-shaped toggle switch component for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-06-05T11:20:03Z",
-            "owner": "anatoliygatt",
-            "repo": "heart-switch",
-            "stars": 451
-          }
-        }
-      ],
-      "title": "React Awesome Components"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "storybook",
-          "description": "Storybook is a frontend workshop for building UI components and pages in isolation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:59:19Z",
-            "owner": "storybookjs",
-            "repo": "storybook",
-            "stars": 90868
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bit",
-          "description": "A build system for development of composable software",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:17:13Z",
-            "owner": "teambit",
-            "repo": "bit",
-            "stars": 18456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-cosmos",
-          "description": "Dev tool for creating reusable React components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T19:36:17Z",
-            "owner": "react-cosmos",
-            "repo": "react-cosmos",
-            "stars": 8687
-          }
-        }
-      ],
-      "title": "React Components Sandboxes"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "react-hook-form",
-          "description": "React Hooks for form state management and validation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:54:09Z",
-            "owner": "react-hook-form",
-            "repo": "react-hook-form",
-            "stars": 44820
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-jsonschema-form",
-          "description": "A React component for building Web forms from JSON Schema",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T10:06:18Z",
-            "owner": "rjsf-team",
-            "repo": "react-jsonschema-form",
-            "stars": 15868
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "formily",
-          "description": "Alibaba Group Unified Form Solution",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-21T01:46:14Z",
-            "owner": "alibaba",
-            "repo": "formily",
-            "stars": 12561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tanstack-form",
-          "description": "Headless, performant, and type-safe form state management",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T06:29:26Z",
-            "owner": "TanStack",
-            "repo": "form",
-            "stars": 6661
-          }
-        }
-      ],
-      "title": "React Forms"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tanstack-table",
-          "description": "Headless UI for building powerful tables & datagrids",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:06:49Z",
-            "owner": "TanStack",
-            "repo": "table",
-            "stars": 28344
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-grid-layout",
-          "description": "A draggable and resizable grid layout with responsive breakpoints",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T14:05:10Z",
-            "owner": "react-grid-layout",
-            "repo": "react-grid-layout",
-            "stars": 22383
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-data-grid",
-          "description": "Feature-rich and customizable data grid React component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:39:26Z",
-            "owner": "Comcast",
-            "repo": "react-data-grid",
-            "stars": 7666
-          }
-        }
-      ],
-      "title": "React Tables and Grids"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "react-map-gl",
-          "description": "React friendly API wrapper around MapboxGL JS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-06T01:25:28Z",
-            "owner": "visgl",
-            "repo": "react-map-gl",
-            "stars": 8485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-leaflet",
-          "description": "React components for Leaflet maps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-31T13:03:00Z",
-            "owner": "PaulLeCam",
-            "repo": "react-leaflet",
-            "stars": 5596
-          }
-        }
-      ],
-      "title": "React Maps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "xyflow",
-          "description": "A customizable React component for building node-based editors and interactive diagrams",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:12:27Z",
-            "owner": "xyflow",
-            "repo": "xyflow",
-            "stars": 38047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "recharts",
-          "description": "Redefined chart library built with React and D3",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:58:18Z",
-            "owner": "recharts",
-            "repo": "recharts",
-            "stars": 27504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "visx",
-          "description": "Visualization components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-22T14:25:22Z",
-            "owner": "airbnb",
-            "repo": "visx",
-            "stars": 21007
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nivo",
-          "description": "Provides a rich set of data visualization components built on top of the D3 and React libraries",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-21T02:46:40Z",
-            "owner": "plouc",
-            "repo": "nivo",
-            "stars": 14085
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "victory",
-          "description": "A collection of composable React components for building interactive data visualizations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-19T23:11:18Z",
-            "owner": "FormidableLabs",
-            "repo": "victory",
-            "stars": 11241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-vis",
-          "description": "Data Visualization Components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-12-18T22:24:34Z",
-            "owner": "uber",
-            "repo": "react-vis",
-            "stars": 8784
-          }
-        }
-      ],
-      "title": "React Charts"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "remotion",
-          "description": "Make videos programmatically with React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:23:30Z",
-            "owner": "remotion-dev",
-            "repo": "remotion",
-            "stars": 56704
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ink",
-          "description": "React for interactive command-line apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T00:11:46Z",
-            "owner": "vadimdemedes",
-            "repo": "ink",
-            "stars": 39683
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-three-fiber",
-          "description": "A React renderer for Three.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T14:40:56Z",
-            "owner": "pmndrs",
-            "repo": "react-three-fiber",
-            "stars": 31728
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-pdf",
-          "description": "Create PDF files using React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T23:03:40Z",
-            "owner": "diegomura",
-            "repo": "react-pdf",
-            "stars": 16748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-figma",
-          "description": "A React renderer for Figma",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-14T01:26:09Z",
-            "owner": "react-figma",
-            "repo": "react-figma",
-            "stars": 2693
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "markdown-to-jsx",
-          "description": "A very fast and versatile markdown toolchain",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T01:30:22Z",
-            "owner": "quantizor",
-            "repo": "markdown-to-jsx",
-            "stars": 2384
-          }
-        }
-      ],
-      "title": "React Renderers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "formatjs",
-          "description": "Internationalize your web apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:18:42Z",
-            "owner": "formatjs",
-            "repo": "formatjs",
-            "stars": 14744
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-i18next",
-          "description": "Internationalization for React done right",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-08T06:10:35Z",
-            "owner": "i18next",
-            "repo": "react-i18next",
-            "stars": 10034
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-intlayer",
-          "description": "Internationalization focused on maintainability for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:53:45Z",
-            "owner": "aymericzip",
-            "repo": "intlayer",
-            "stars": 797
-          }
-        }
-      ],
-      "title": "React Internationalization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "framer-motion",
-          "description": "Open source, production-ready animation and gesture library for React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:26:57Z",
-            "owner": "motiondivision",
-            "repo": "motion",
-            "stars": 33275
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-spring",
-          "description": "A spring physics based React animation library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T07:54:40Z",
-            "owner": "pmndrs",
-            "repo": "react-spring",
-            "stars": 29132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auto-animate",
-          "description": "A zero-config, drop-in animation utility that adds smooth transitions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-10T16:08:00Z",
-            "owner": "formkit",
-            "repo": "auto-animate",
-            "stars": 13900
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-tsparticles",
-          "description": "Easily create highly customizable particles effects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T07:05:44Z",
-            "owner": "tsparticles",
-            "repo": "tsparticles",
-            "stars": 8953
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "simple-parallax-js",
-          "description": "The easiest way to get a parallax effect with React and JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-14T19:54:04Z",
-            "owner": "geosigno",
-            "repo": "simpleParallax.js",
-            "stars": 2157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-parallax-tilt",
-          "description": "Easily apply tilt hover effect on React components",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T06:42:20Z",
-            "owner": "mkosir",
-            "repo": "react-parallax-tilt",
-            "stars": 1078
-          }
-        }
-      ],
-      "title": "React Graphics and Animations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rescript-compiler",
-          "description": "A robustly typed language that compiles to efficient and human-readable JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "ReScript",
-            "last_commit": "2026-08-18T12:56:21Z",
-            "owner": "rescript-lang",
-            "repo": "rescript",
-            "stars": 7432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fulcro",
-          "description": "A library for development of web applications in clj/cljs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-07-15T18:10:11Z",
-            "owner": "fulcrologic",
-            "repo": "fulcro",
-            "stars": 1611
-          }
-        }
-      ],
-      "title": "React Integration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mattermost-server",
-          "description": "An open source platform for secure collaboration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:15:57Z",
-            "owner": "mattermost",
-            "repo": "mattermost",
-            "stars": 38833
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "readest",
-          "description": "A minimalistic, feature-rich and cross-platform eBook reader",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:44:00Z",
-            "owner": "readest",
-            "repo": "readest",
-            "stars": 23520
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wave",
-          "description": "An open-source, cross-platform terminal for seamless workflows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T18:53:52Z",
-            "owner": "wavetermdev",
-            "repo": "waveterm",
-            "stars": 22058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kibana",
-          "description": "Your window into the Elastic Stack",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:24:05Z",
-            "owner": "elastic",
-            "repo": "kibana",
-            "stars": 21248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webamp",
-          "description": "Winamp 2 reimplemented for the browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-31T15:20:41Z",
-            "owner": "captbaritone",
-            "repo": "webamp",
-            "stars": 11221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "overreacted",
-          "description": "Personal blog by Dan Abramov",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-04T03:29:12Z",
-            "owner": "gaearon",
-            "repo": "overreacted.io",
-            "stars": 7272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "notifuse",
-          "description": "Modern self-hosted emailing platform to send newsletters & transactional emails",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:23:57Z",
-            "owner": "Notifuse",
-            "repo": "notifuse",
-            "stars": 2048
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bookcars",
-          "description": "Car rental platform",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-13T12:28:53Z",
-            "owner": "aelassas",
-            "repo": "bookcars",
-            "stars": 623
-          }
-        }
-      ],
-      "title": "React Real Apps"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "React Native"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "react-native-vector-icons",
-          "description": "Customizable Icons for React Native",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T14:35:15Z",
-            "owner": "oblador",
-            "repo": "react-native-vector-icons",
-            "stars": 17904
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-native-gifted-chat",
-          "description": "The most complete chat UI for React Native",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T17:40:19Z",
-            "owner": "FaridSafi",
-            "repo": "react-native-gifted-chat",
-            "stars": 14440
-          }
-        }
-      ],
-      "title": "React Native Awesome Components"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "react-native-maps",
-          "description": "React Native Mapview component",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T03:06:36Z",
-            "owner": "react-native-maps",
-            "repo": "react-native-maps",
-            "stars": 15989
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-native-device-info",
-          "description": "Device Information for React Native iOS and Android",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T23:16:41Z",
-            "owner": "react-native-device-info",
-            "repo": "react-native-device-info",
-            "stars": 6679
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "realm-js",
-          "description": "A mobile database: an alternative to SQLite & key-value stores",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T19:26:26Z",
-            "owner": "realm",
-            "repo": "realm-js",
-            "stars": 6002
-          }
-        }
-      ],
-      "title": "React Native Libraries"
-    },
-    {
-      "description": "This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)\n",
-      "items": [],
-      "title": "Contribution"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:24:12.813Z",
+    "last_updated": "2026-08-19T12:48:30.725Z",
     "original_repository": "enaqx/awesome-react",
+    "original_repository_id": 22670857,
     "original_repository_sha": "99ab3bc41835c59a79dcb0c8ecb97b4297635b42",
     "enhanced_repository": "enhansome/enhansome-react",
     "enhanced_repository_description": null,
