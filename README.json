@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The library for web and native user interfaces.",
+                "homepage": "https://react.dev",
                 "id": 10270250,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:10:40Z",
+                "open_issues": 1281,
                 "owner": "react",
                 "repo": "react",
-                "stars": 248010
+                "stars": 248015,
+                "topics": [
+                  "declarative",
+                  "frontend",
+                  "javascript",
+                  "library",
+                  "react",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -35,12 +47,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+                "homepage": "https://react-typescript-cheatsheet.netlify.app",
                 "id": 135786093,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-29T19:52:44Z",
+                "open_issues": 0,
                 "owner": "typescript-cheatsheets",
                 "repo": "react",
-                "stars": 47096
+                "stars": 47096,
+                "topics": [
+                  "cheatsheet",
+                  "guide",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -51,12 +73,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+                "homepage": null,
                 "id": 135614069,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:37:15Z",
+                "open_issues": 11,
                 "owner": "sudheerj",
                 "repo": "reactjs-interview-questions",
-                "stars": 44763
+                "stars": 44763,
+                "topics": [
+                  "interview-preparation",
+                  "interview-questions",
+                  "javascript",
+                  "javascript-applications",
+                  "javascript-framework",
+                  "javascript-interview-questions",
+                  "react",
+                  "react-interview-questions",
+                  "react-native",
+                  "react-router",
+                  "react16",
+                  "reactjs",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -67,12 +108,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. ",
+                "homepage": null,
                 "id": 372240402,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-14T13:53:04Z",
+                "open_issues": 41,
                 "owner": "alan2207",
                 "repo": "bulletproof-react",
-                "stars": 35754
+                "stars": 35754,
+                "topics": [
+                  "react",
+                  "react-applications",
+                  "react-architecture-patterns",
+                  "react-best-practice",
+                  "react-guidelines",
+                  "react-project-structure",
+                  "react-typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -90,12 +144,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The React Framework",
+                "homepage": "https://nextjs.org",
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T23:47:08Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:19:20Z",
+                "open_issues": 3638,
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141975
+                "stars": 141980,
+                "topics": [
+                  "blog",
+                  "browser",
+                  "compiler",
+                  "components",
+                  "hybrid",
+                  "nextjs",
+                  "node",
+                  "react",
+                  "server-rendering",
+                  "ssg",
+                  "static",
+                  "static-site-generator",
+                  "universal",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -106,12 +180,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React-based framework with performance, scalability, and security built in.",
+                "homepage": "https://www.gatsbyjs.com",
                 "id": 36040894,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T03:41:15Z",
+                "open_issues": 437,
                 "owner": "gatsbyjs",
                 "repo": "gatsby",
-                "stars": 55941
+                "stars": 55941,
+                "topics": [
+                  "blog",
+                  "compiler",
+                  "gatsby",
+                  "graphql",
+                  "react",
+                  "static-site-generator",
+                  "web-app"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -122,12 +209,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+                "homepage": "https://refine.dev",
                 "id": 331293626,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-05T15:19:38Z",
+                "open_issues": 95,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35593
+                "stars": 35593,
+                "topics": [
+                  "admin",
+                  "admin-ui",
+                  "ant-design",
+                  "crud",
+                  "developer-tools",
+                  "frontend-framework",
+                  "good-first-issue",
+                  "graphql",
+                  "hacktoberfest",
+                  "headless",
+                  "internal-tools",
+                  "javascript",
+                  "low-code",
+                  "nestjs",
+                  "nextjs",
+                  "open-source-project",
+                  "react",
+                  "react-framework",
+                  "react-hooks",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -138,12 +251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+                "homepage": "https://remix.run",
                 "id": 307489284,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:05:07Z",
+                "open_issues": 53,
                 "owner": "remix-run",
                 "repo": "remix",
-                "stars": 33331
+                "stars": 33331,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -154,12 +272,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+                "homepage": "http://marmelab.com/react-admin",
                 "id": 63226588,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:43:52Z",
+                "open_issues": 74,
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26915
+                "stars": 26915,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "admin-on-rest",
+                  "admin-ui",
+                  "frontend-framework",
+                  "graphql",
+                  "material-ui",
+                  "react",
+                  "react-admin",
+                  "reactjs",
+                  "rest",
+                  "single-page-app"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -170,12 +306,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.",
+                "homepage": "https://vike.dev",
                 "id": 333723456,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:40:26Z",
+                "open_issues": 87,
                 "owner": "vikejs",
                 "repo": "vike",
-                "stars": 5819
+                "stars": 5819,
+                "topics": [
+                  "full-stack",
+                  "node",
+                  "react",
+                  "react-ssr",
+                  "server-rendering",
+                  "server-side-rendering",
+                  "solid",
+                  "solid-ssr",
+                  "ssr",
+                  "static-site-generator",
+                  "vite",
+                  "vite-plugin",
+                  "vite-ssr",
+                  "vitejs",
+                  "vue",
+                  "vue-ssr",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -193,12 +352,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+                "homepage": "https://ui.shadcn.com",
                 "id": 585146387,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T06:28:13Z",
+                "open_issues": 2237,
                 "owner": "shadcn-ui",
                 "repo": "ui",
-                "stars": 122419
+                "stars": 122445,
+                "topics": [
+                  "base-ui",
+                  "components",
+                  "laravel",
+                  "nextjs",
+                  "radix-ui",
+                  "react",
+                  "react-aria",
+                  "react-aria-components",
+                  "shadcn",
+                  "tailwindcss",
+                  "tanstack",
+                  "ui",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -209,12 +387,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An enterprise-class UI design language and React UI library",
+                "homepage": "https://ant.design",
                 "id": 34526884,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:21:33Z",
+                "open_issues": 1105,
                 "owner": "ant-design",
                 "repo": "ant-design",
-                "stars": 99245
+                "stars": 99255,
+                "topics": [
+                  "ant-design",
+                  "antd",
+                  "design-systems",
+                  "react",
+                  "typescript",
+                  "ui-kit",
+                  "ui-library"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -225,12 +416,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+                "homepage": "https://mui.com/material-ui/",
                 "id": 23083156,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:03:40Z",
+                "open_issues": 1488,
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98958
+                "stars": 98958,
+                "topics": [
+                  "design-system",
+                  "material-design",
+                  "material-ui",
+                  "react",
+                  "react-components"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -241,12 +443,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+                "homepage": "https://reactbits.dev",
                 "id": 838695230,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:11:19Z",
+                "open_issues": 9,
                 "owner": "DavidHDev",
                 "repo": "react-bits",
-                "stars": 46332
+                "stars": 46343,
+                "topics": [
+                  "3d",
+                  "animations",
+                  "component-library",
+                  "components",
+                  "components-library",
+                  "components-react",
+                  "css-animations",
+                  "javascript",
+                  "react",
+                  "react-components",
+                  "reactjs",
+                  "tailwind",
+                  "tailwindcss",
+                  "ui-components",
+                  "ui-library",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -257,12 +481,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+                "homepage": "https://chakra-ui.com",
                 "id": 202890778,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:32:38Z",
+                "open_issues": 12,
                 "owner": "chakra-ui",
                 "repo": "chakra-ui",
-                "stars": 40599
+                "stars": 40600,
+                "topics": [
+                  "a11y",
+                  "accessible",
+                  "ark-ui",
+                  "chakra-ui",
+                  "component",
+                  "css-in-js",
+                  "dark-mode",
+                  "design-system",
+                  "react",
+                  "react-components",
+                  "reactjs",
+                  "styled",
+                  "ui-components",
+                  "ui-library",
+                  "uikit",
+                  "wai-aria"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -273,12 +519,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully featured React components library",
+                "homepage": "https://mantine.dev",
                 "id": 327628682,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-22T17:15:58Z",
+                "open_issues": 54,
                 "owner": "mantinedev",
                 "repo": "mantine",
-                "stars": 31631
+                "stars": 31631,
+                "topics": [
+                  "dark-mode",
+                  "dark-theme",
+                  "hooks",
+                  "react",
+                  "typescript",
+                  "uikit"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -289,12 +547,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+                "homepage": "https://headlessui.com",
                 "id": 295992065,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-13T16:12:31Z",
+                "open_issues": 109,
                 "owner": "tailwindlabs",
                 "repo": "headlessui",
-                "stars": 28725
+                "stars": 28725,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "components",
+                  "headless-ui",
+                  "headlessui",
+                  "react",
+                  "tailwindcss",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -305,12 +577,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bootstrap components built with React",
+                "homepage": "https://react-bootstrap.github.io/",
                 "id": 15480067,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:52:18Z",
+                "open_issues": 235,
                 "owner": "react-bootstrap",
                 "repo": "react-bootstrap",
-                "stars": 22610
+                "stars": 22610,
+                "topics": [
+                  "bootstrap",
+                  "hacktoberfest",
+                  "javascript",
+                  "react",
+                  "react-components",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -321,12 +605,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+                "homepage": "https://react.fluentui.dev",
                 "id": 60537144,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:11:26Z",
+                "open_issues": 770,
                 "owner": "microsoft",
                 "repo": "fluentui",
-                "stars": 20232
+                "stars": 20232,
+                "topics": [
+                  "components",
+                  "fluent",
+                  "microsoft",
+                  "office-ui-fabric",
+                  "react",
+                  "react-components"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -337,12 +633,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💌 Build and send emails using React",
+                "homepage": "https://react.email",
                 "id": 538663825,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:31:47Z",
+                "open_issues": 29,
                 "owner": "resend",
                 "repo": "react-email",
-                "stars": 19683
+                "stars": 19684,
+                "topics": [
+                  "email",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -353,12 +657,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full featured HTML framework for building iOS & Android apps",
+                "homepage": "http://framework7.io",
                 "id": 17107479,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T17:27:59Z",
+                "open_issues": 241,
                 "owner": "framework7io",
                 "repo": "framework7",
-                "stars": 18748
+                "stars": 18748,
+                "topics": [
+                  "android",
+                  "components",
+                  "cordova",
+                  "framework",
+                  "ios",
+                  "library",
+                  "material",
+                  "material-design",
+                  "mobile",
+                  "phonegap",
+                  "touch"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -369,12 +690,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit with accessible components, styles, and examples for your next web app",
+                "homepage": "https://ariakit.com",
                 "id": 104133653,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:39:08Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:09:51Z",
+                "open_issues": 42,
                 "owner": "ariakit",
                 "repo": "ariakit",
-                "stars": 8607
+                "stars": 8607,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "accessible",
+                  "aria",
+                  "ariakit",
+                  "components",
+                  "css",
+                  "react",
+                  "reactjs",
+                  "tailwindcss",
+                  "wai-aria"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -385,12 +723,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of retro-designed, accessible components and a code distribution platform. Open Source. Open Code.",
+                "homepage": "https://www.8bitcn.com/",
                 "id": 956053274,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T23:59:53Z",
+                "open_issues": 16,
                 "owner": "TheOrcDev",
                 "repo": "8bitcn-ui",
-                "stars": 2012
+                "stars": 2012,
+                "topics": [
+                  "8-bit",
+                  "components",
+                  "retro",
+                  "shadcn",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -401,12 +750,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruixen UI – A modern, flexible, and customizable UI component library built for speed, scalability, and developer happiness.",
+                "homepage": "https://ruixen.com",
                 "id": 1050582591,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T18:02:35Z",
+                "open_issues": 2,
                 "owner": "ruixenui",
                 "repo": "ruixen.com",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "components",
+                  "framer-motion",
+                  "nextjs",
+                  "react",
+                  "shadcn-ui",
+                  "tailwindcss",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -424,12 +786,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS library for predictable global state management",
+                "homepage": "https://redux.js.org",
                 "id": 36535156,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T02:41:39Z",
+                "open_issues": 49,
                 "owner": "reduxjs",
                 "repo": "redux",
-                "stars": 61509
+                "stars": 61508,
+                "topics": [
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -440,12 +809,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐻 Bear necessities for state management in React",
+                "homepage": "https://zustand-demo.pmnd.rs/",
                 "id": 180328715,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:00:49Z",
+                "open_issues": 5,
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58626
+                "stars": 58626,
+                "topics": [
+                  "hacktoberfest",
+                  "hooks",
+                  "react",
+                  "react-context",
+                  "reactjs",
+                  "redux",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -456,12 +838,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+                "homepage": "https://tanstack.com/query",
                 "id": 207645083,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:43:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:09:26Z",
+                "open_issues": 134,
                 "owner": "TanStack",
                 "repo": "query",
-                "stars": 50223
+                "stars": 50224,
+                "topics": [
+                  "async",
+                  "cache",
+                  "data",
+                  "fetch",
+                  "graphql",
+                  "hooks",
+                  "query",
+                  "react",
+                  "rest",
+                  "solid",
+                  "stale",
+                  "stale-while-revalidate",
+                  "svelte",
+                  "typescript",
+                  "update",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -472,12 +876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immutable persistent data collections for Javascript which increase efficiency and simplicity.",
+                "homepage": "https://immutable-js.com",
                 "id": 21413198,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:12:31Z",
+                "open_issues": 130,
                 "owner": "immutable-js",
                 "repo": "immutable-js",
-                "stars": 33040
+                "stars": 33040,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -488,12 +897,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Hooks for Data Fetching",
+                "homepage": "https://swr.vercel.app",
                 "id": 218115303,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T11:35:07Z",
+                "open_issues": 216,
                 "owner": "vercel",
                 "repo": "swr",
-                "stars": 32477
+                "stars": 32477,
+                "topics": [
+                  "cache",
+                  "data",
+                  "data-fetching",
+                  "fetch",
+                  "hook",
+                  "hooks",
+                  "nextjs",
+                  "react",
+                  "react-native",
+                  "stale-while-revalidate",
+                  "suspense",
+                  "swr",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -504,12 +932,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "State machines, statecharts, and actors for complex logic",
+                "homepage": "https://stately.ai/docs",
                 "id": 42455934,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:25:23Z",
+                "open_issues": 122,
                 "owner": "statelyai",
                 "repo": "xstate",
-                "stars": 30071
+                "stars": 30070,
+                "topics": [
+                  "actor-model",
+                  "background-jobs",
+                  "finite-state-machine",
+                  "fsm",
+                  "interpreter",
+                  "javascript",
+                  "orchestration",
+                  "reactive",
+                  "scxml",
+                  "state",
+                  "state-machine",
+                  "state-machines",
+                  "state-management",
+                  "statechart",
+                  "statecharts",
+                  "typescript",
+                  "visualizer",
+                  "workflow",
+                  "xstate"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -520,12 +973,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create the next immutable state by mutating the current one",
+                "homepage": "https://immerjs.github.io/immer/",
                 "id": 115720575,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T07:57:23Z",
+                "open_issues": 39,
                 "owner": "immerjs",
                 "repo": "immer",
-                "stars": 28981
+                "stars": 28980,
+                "topics": [
+                  "immutable",
+                  "immutables",
+                  "reducer",
+                  "redux",
+                  "state-tree"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -536,12 +1000,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple, scalable state management.",
+                "homepage": "http://mobx.js.org",
                 "id": 32215970,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:12:16Z",
+                "open_issues": 57,
                 "owner": "mobxjs",
                 "repo": "mobx",
-                "stars": 28206
+                "stars": 28206,
+                "topics": [
+                  "javascript",
+                  "mobx",
+                  "react",
+                  "reactive-programming",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -552,12 +1027,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/",
+                "homepage": "https://rxdb.info/",
                 "id": 75425073,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:09:40Z",
+                "open_issues": 21,
                 "owner": "pubkey",
                 "repo": "rxdb",
-                "stars": 23370
+                "stars": 23370,
+                "topics": [
+                  "angular",
+                  "browser-database",
+                  "couchdb",
+                  "crdt",
+                  "database",
+                  "firebase",
+                  "graphql",
+                  "indexeddb",
+                  "ionic",
+                  "local-first",
+                  "localstorage",
+                  "nodejs",
+                  "nosql",
+                  "postgres",
+                  "pouchdb",
+                  "react-native",
+                  "realtime",
+                  "realtime-database",
+                  "rxdb",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -568,12 +1069,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👻 Primitive and flexible state management for React",
+                "homepage": "https://jotai.org",
                 "id": 286867459,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T08:32:54Z",
+                "open_issues": 4,
                 "owner": "pmndrs",
                 "repo": "jotai",
-                "stars": 21246
+                "stars": 21247,
+                "topics": [
+                  "atomic",
+                  "hacktoberfest",
+                  "management",
+                  "react",
+                  "state"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -584,12 +1096,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.",
+                "homepage": "https://apollographql.com/client",
                 "id": 52630616,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T02:50:11Z",
+                "open_issues": 405,
                 "owner": "apollographql",
                 "repo": "apollo-client",
-                "stars": 19812
+                "stars": 19812,
+                "topics": [
+                  "apollo-client",
+                  "apollographql",
+                  "graphql",
+                  "graphql-client",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -600,12 +1123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Relay is a JavaScript framework for building data-driven React applications.",
+                "homepage": "https://relay.dev",
                 "id": 40508605,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T22:48:23Z",
+                "open_issues": 857,
                 "owner": "facebook",
                 "repo": "relay",
-                "stars": 18958
+                "stars": 18958,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -616,12 +1144,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Business logic with ease ☄️",
+                "homepage": "https://effector.dev",
                 "id": 123197392,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-25T00:21:18Z",
+                "open_issues": 159,
                 "owner": "effector",
                 "repo": "effector",
-                "stars": 4849
+                "stars": 4849,
+                "topics": [
+                  "business-logic",
+                  "effector",
+                  "event-driven",
+                  "reactive",
+                  "state",
+                  "state-management",
+                  "state-manager"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -639,12 +1180,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+                "homepage": "https://styled-components.com",
                 "id": 65794292,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:00:26Z",
+                "open_issues": 23,
                 "owner": "styled-components",
                 "repo": "styled-components",
-                "stars": 41125
+                "stars": 41125,
+                "topics": [
+                  "css",
+                  "css-in-js",
+                  "react",
+                  "reactnative",
+                  "rsc",
+                  "styled-components"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -655,12 +1208,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+                "homepage": "https://emotion.sh/",
                 "id": 92570536,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:30:54Z",
+                "open_issues": 392,
                 "owner": "emotion-js",
                 "repo": "emotion",
-                "stars": 18021
+                "stars": 18020,
+                "topics": [
+                  "babel-plugin",
+                  "css",
+                  "css-in-js",
+                  "emotion",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -671,12 +1236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-runtime Stylesheets-in-TypeScript",
+                "homepage": "https://vanilla-extract.style",
                 "id": 351669095,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T02:56:47Z",
+                "open_issues": 73,
                 "owner": "vanilla-extract-css",
                 "repo": "vanilla-extract",
-                "stars": 10418
+                "stars": 10418,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -694,12 +1264,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+                "homepage": "https://lucide.dev",
                 "id": 270722949,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:23:07Z",
+                "open_issues": 523,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24225
+                "stars": 24228,
+                "topics": [
+                  "feather-icons",
+                  "figma",
+                  "icons",
+                  "react",
+                  "svg",
+                  "svg-icons",
+                  "svgs",
+                  "ui-components",
+                  "ui-design",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -710,12 +1296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+                "homepage": "https://heroicons.com",
                 "id": 242754476,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-12T13:51:18Z",
+                "open_issues": 4,
                 "owner": "tailwindlabs",
                 "repo": "heroicons",
-                "stars": 23768
+                "stars": 23771,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -726,12 +1317,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "svg react icons of popular icon packs",
+                "homepage": "https://react-icons.github.io/react-icons/",
                 "id": 44812159,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-12T09:38:49Z",
+                "open_issues": 239,
                 "owner": "react-icons",
                 "repo": "react-icons",
-                "stars": 12624
+                "stars": 12625,
+                "topics": [
+                  "icons",
+                  "react",
+                  "svg-icons"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -742,12 +1342,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "6,500+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg",
+                "homepage": "https://thesvg.org/",
                 "id": 1175458728,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T17:36:11Z",
+                "open_issues": 11,
                 "owner": "glincker",
                 "repo": "thesvg",
-                "stars": 2622
+                "stars": 2622,
+                "topics": [
+                  "agent-skills",
+                  "aws",
+                  "brands",
+                  "cloud-icons",
+                  "design-resources",
+                  "hacktoberfest",
+                  "icon-pack",
+                  "icons",
+                  "logos",
+                  "nextjs",
+                  "npm-package",
+                  "open-source",
+                  "react",
+                  "skills",
+                  "svelte",
+                  "svg",
+                  "svg-icons",
+                  "tailwindcss",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -765,12 +1391,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Declarative routing for React",
+                "homepage": "https://reactrouter.com",
                 "id": 19872456,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:44:11Z",
+                "open_issues": 170,
                 "owner": "remix-run",
                 "repo": "react-router",
-                "stars": 56576
+                "stars": 56577,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -781,12 +1412,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).",
+                "homepage": "https://tanstack.com/router",
                 "id": 165670309,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:47:52Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:36:31Z",
+                "open_issues": 582,
                 "owner": "TanStack",
                 "repo": "router",
-                "stars": 15007
+                "stars": 15007,
+                "topics": [
+                  "framework",
+                  "fullstack",
+                  "javascript",
+                  "react",
+                  "route",
+                  "router",
+                  "routing",
+                  "rpc",
+                  "search",
+                  "searchparams",
+                  "server-functions",
+                  "ssr",
+                  "state-management",
+                  "typesafe",
+                  "typescript",
+                  "url"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -797,12 +1450,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The TanStack Router API. Rebuilt for the hot path.",
+                "homepage": null,
                 "id": 1335351545,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T20:19:30Z",
+                "open_issues": 1,
                 "owner": "anonrig",
                 "repo": "router",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "react",
+                  "react19",
+                  "router",
+                  "ssr",
+                  "tanstack",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -820,12 +1485,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next generation frontend tooling. It's fast!",
+                "homepage": "http://vite.dev",
                 "id": 257485422,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:47:39Z",
+                "open_issues": 771,
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82575
+                "stars": 82575,
+                "topics": [
+                  "build-tool",
+                  "dev-server",
+                  "frontend",
+                  "hmr",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -836,12 +1512,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The zero configuration build tool for the web. 📦🚀",
+                "homepage": "https://parceljs.org",
                 "id": 99598595,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T04:10:31Z",
+                "open_issues": 604,
                 "owner": "parcel-bundler",
                 "repo": "parcel",
-                "stars": 44023
+                "stars": 44023,
+                "topics": [
+                  "assets",
+                  "build-tool",
+                  "commonjs",
+                  "compiler",
+                  "css",
+                  "es6",
+                  "html",
+                  "javascript",
+                  "module-bundler",
+                  "modules",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -852,12 +1545,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scan and fix React performance issues",
+                "homepage": "https://react-scan.com",
                 "id": 851321035,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T09:23:35Z",
+                "open_issues": 77,
                 "owner": "aidenybai",
                 "repo": "react-scan",
-                "stars": 21813
+                "stars": 21813,
+                "topics": [
+                  "javascript",
+                  "react",
+                  "react-dom",
+                  "react-scan",
+                  "rendering"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -868,12 +1572,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.",
+                "homepage": "https://docs.infinite.red/reactotron/",
                 "id": 56352157,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T22:50:44Z",
+                "open_issues": 155,
                 "owner": "infinitered",
                 "repo": "reactotron",
-                "stars": 15585
+                "stars": 15586,
+                "topics": [
+                  "debugging",
+                  "desktop",
+                  "react-native",
+                  "reactjs",
+                  "reactnative",
+                  "reactotron",
+                  "redux",
+                  "redux-saga"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -884,12 +1602,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)",
+                "homepage": "https://www.npmjs.com/package/@welldone-software/why-did-you-render",
                 "id": 157014461,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-15T11:11:13Z",
+                "open_issues": 45,
                 "owner": "welldone-software",
                 "repo": "why-did-you-render",
-                "stars": 12512
+                "stars": 12512,
+                "topics": [
+                  "component",
+                  "hooks-tracking",
+                  "performance",
+                  "pure",
+                  "purecomponent",
+                  "react",
+                  "react-native",
+                  "render",
+                  "tool",
+                  "update"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -900,12 +1634,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React-specific linting rules for ESLint",
+                "homepage": null,
                 "id": 28061676,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-30T05:32:25Z",
+                "open_issues": 372,
                 "owner": "jsx-eslint",
                 "repo": "eslint-plugin-react",
-                "stars": 9293
+                "stars": 9293,
+                "topics": [
+                  "development",
+                  "ecmascript",
+                  "eslint",
+                  "javascript",
+                  "lint",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -923,12 +1669,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+                "homepage": "https://preactjs.com",
                 "id": 42283287,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:01:05Z",
+                "open_issues": 42,
                 "owner": "preactjs",
                 "repo": "preact",
-                "stars": 38842
+                "stars": 38842,
+                "topics": [
+                  "components",
+                  "dom",
+                  "jsx",
+                  "preact",
+                  "react",
+                  "vdom",
+                  "virtual-dom"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -939,12 +1698,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript library to position floating elements and create interactions for them.",
+                "homepage": "https://floating-ui.com",
                 "id": 54994103,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T13:32:18Z",
+                "open_issues": 59,
                 "owner": "floating-ui",
                 "repo": "floating-ui",
-                "stars": 32713
+                "stars": 32713,
+                "topics": [
+                  "dropdown",
+                  "hacktoberfest",
+                  "popover",
+                  "popovers",
+                  "position",
+                  "positioning",
+                  "positioning-engine",
+                  "tooltip",
+                  "tooltip-position"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -955,12 +1729,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
+                "homepage": "https://ai-sdk.dev",
                 "id": 644461337,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:07:51Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:36:52Z",
+                "open_issues": 1672,
                 "owner": "vercel",
                 "repo": "ai",
-                "stars": 26474
+                "stars": 26477,
+                "topics": [
+                  "anthropic",
+                  "artificial-intelligence",
+                  "gemini",
+                  "generative-ai",
+                  "generative-ui",
+                  "javascript",
+                  "language-model",
+                  "llm",
+                  "nextjs",
+                  "openai",
+                  "react",
+                  "svelte",
+                  "typescript",
+                  "vercel",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -971,12 +1766,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.",
+                "homepage": "http://downshift-js.com/",
                 "id": 98315735,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-30T07:36:06Z",
+                "open_issues": 57,
                 "owner": "downshift-js",
                 "repo": "downshift",
-                "stars": 12307
+                "stars": 12307,
+                "topics": [
+                  "accessible",
+                  "autocomplete",
+                  "autosuggest",
+                  "combobox",
+                  "dropdown",
+                  "multiselect",
+                  "react",
+                  "select",
+                  "taggroup",
+                  "tags",
+                  "wai-aria"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -987,12 +1799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple reusable React error boundary component",
+                "homepage": "https://react-error-boundary-lib.vercel.app",
                 "id": 97559842,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T16:31:41Z",
+                "open_issues": 1,
                 "owner": "bvaughn",
                 "repo": "react-error-boundary",
-                "stars": 7985
+                "stars": 7985,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1003,12 +1820,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The recommended Code Splitting library for React ✂️✨",
+                "homepage": "https://loadable-components.com",
                 "id": 95196818,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-18T01:23:54Z",
+                "open_issues": 53,
                 "owner": "gregberge",
                 "repo": "loadable-components",
-                "stars": 7801
+                "stars": 7801,
+                "topics": [
+                  "code-splitting",
+                  "dynamic-import",
+                  "react",
+                  "react-async-component",
+                  "react-loadable",
+                  "react-router",
+                  "server-side-rendering",
+                  "ssr",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1019,12 +1851,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern file uploading - components & hooks for React",
+                "homepage": "https://react-uploady.org",
                 "id": 221179329,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T10:26:18Z",
+                "open_issues": 12,
                 "owner": "rpldy",
                 "repo": "react-uploady",
-                "stars": 1247
+                "stars": 1247,
+                "topics": [
+                  "browser",
+                  "chunked-uploads",
+                  "components",
+                  "drag-and-drop",
+                  "file-upload",
+                  "file-uploader",
+                  "files",
+                  "hooks",
+                  "javascript",
+                  "react",
+                  "react-native",
+                  "reactjs",
+                  "resumable",
+                  "resumable-upload",
+                  "ssr",
+                  "tus",
+                  "upload"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1042,12 +1897,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+                "homepage": "https://playwright.dev",
                 "id": 221981891,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:40:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:43:34Z",
+                "open_issues": 167,
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 95310
+                "stars": 95316,
+                "topics": [
+                  "automation",
+                  "chrome",
+                  "chromium",
+                  "e2e-testing",
+                  "electron",
+                  "end-to-end-testing",
+                  "firefox",
+                  "javascript",
+                  "playwright",
+                  "test",
+                  "test-automation",
+                  "testing",
+                  "testing-tools",
+                  "web",
+                  "webkit"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1058,12 +1934,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+                "homepage": "https://cypress.io",
                 "id": 31629751,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T22:27:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:55:02Z",
+                "open_issues": 1060,
                 "owner": "cypress-io",
                 "repo": "cypress",
-                "stars": 51010
+                "stars": 51012,
+                "topics": [
+                  "angular-testing-library",
+                  "component-testing",
+                  "cypress",
+                  "cypress-cloud",
+                  "cypress-schematic",
+                  "end-to-end-testing",
+                  "react-testing-library",
+                  "svelte-testing-library",
+                  "test-replay",
+                  "testing-framework",
+                  "testing-library",
+                  "testing-tool",
+                  "vue-testing-library"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1074,12 +1969,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delightful JavaScript Testing.",
+                "homepage": "https://jestjs.io",
                 "id": 15062869,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:51:49Z",
+                "open_issues": 182,
                 "owner": "jestjs",
                 "repo": "jest",
-                "stars": 45474
+                "stars": 45474,
+                "topics": [
+                  "easy",
+                  "expectation",
+                  "facebook",
+                  "immersive",
+                  "javascript",
+                  "painless",
+                  "painless-javascript-testing",
+                  "snapshot",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1090,12 +2000,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices.",
+                "homepage": "https://testing-library.com/react",
                 "id": 125863507,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:40:18Z",
+                "open_issues": 81,
                 "owner": "testing-library",
                 "repo": "react-testing-library",
-                "stars": 19646
+                "stars": 19646,
+                "topics": [
+                  "javascript",
+                  "reactjs",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1113,12 +2032,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated List of React Components & Libraries.",
+                "homepage": null,
                 "id": 61893399,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-01-26T16:36:45Z",
+                "open_issues": 83,
                 "owner": "brillout",
                 "repo": "awesome-react-components",
-                "stars": 48286
+                "stars": 48288,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "react",
+                  "react-component",
+                  "react-components"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1129,12 +2059,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Most modern mobile touch slider with hardware accelerated transitions",
+                "homepage": "https://swiperjs.com",
                 "id": 3721224,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:22:40Z",
+                "open_issues": 236,
                 "owner": "nolimits4web",
                 "repo": "swiper",
-                "stars": 41896
+                "stars": 41895,
+                "topics": [
+                  "carousel",
+                  "gallery",
+                  "mobile",
+                  "slider",
+                  "swipe",
+                  "swiper",
+                  "touch",
+                  "touch-events"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1145,12 +2089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Select Component for React.js",
+                "homepage": "https://react-select.com/",
                 "id": 23338716,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-16T13:58:10Z",
+                "open_issues": 489,
                 "owner": "JedWatson",
                 "repo": "react-select",
-                "stars": 28035
+                "stars": 28035,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1161,12 +2110,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The visual editor for React.",
+                "homepage": "https://puckeditor.com",
                 "id": 648629873,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:45:56Z",
+                "open_issues": 194,
                 "owner": "puckeditor",
                 "repo": "puck",
-                "stars": 13221
+                "stars": 13221,
+                "topics": [
+                  "ai",
+                  "builder",
+                  "drag-and-drop",
+                  "draganddrop",
+                  "no-code",
+                  "nocode",
+                  "page-builder",
+                  "pagebuilder",
+                  "react",
+                  "visual-editor"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1177,12 +2142,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smoking Hot React Notifications 🔥 ",
+                "homepage": "https://react-hot-toast.com",
                 "id": 319456369,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-08-16T12:19:29Z",
+                "open_issues": 143,
                 "owner": "timolins",
                 "repo": "react-hot-toast",
-                "stars": 10973
+                "stars": 10973,
+                "topics": [
+                  "notifications",
+                  "react",
+                  "snackbar",
+                  "toast-notifications"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1193,12 +2168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gcal/outlook like calendar component",
+                "homepage": "http://bigcalendar.github.io/react-big-calendar/",
                 "id": 41187219,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-01T02:34:37Z",
+                "open_issues": 114,
                 "owner": "bigcalendar",
                 "repo": "react-big-calendar",
-                "stars": 8747
+                "stars": 8748,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1209,12 +2189,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple and reusable datepicker component for React",
+                "homepage": "https://reactdatepicker.com/",
                 "id": 21088356,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-02T08:36:28Z",
+                "open_issues": 95,
                 "owner": "Hacker0x01",
                 "repo": "react-datepicker",
-                "stars": 8385
+                "stars": 8385,
+                "topics": [
+                  "date-fns",
+                  "datepicker-component",
+                  "hacktoberfest",
+                  "javascript",
+                  "moment",
+                  "picker",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1225,12 +2218,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fast, portable, and extensible cmd+k interface for your site",
+                "homepage": "https://kbar.vercel.app",
                 "id": 402205905,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T16:00:36Z",
+                "open_issues": 0,
                 "owner": "timc1",
                 "repo": "kbar",
-                "stars": 5246
+                "stars": 5246,
+                "topics": [
+                  "command-palette",
+                  "hooks",
+                  "javascript",
+                  "react",
+                  "shortcuts",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1241,12 +2246,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The HTML touch slider carousel with the most native feeling you will get.",
+                "homepage": "https://keen-slider.io/",
                 "id": 254369624,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-22T00:15:07Z",
+                "open_issues": 149,
                 "owner": "rcbyr",
                 "repo": "keen-slider",
-                "stars": 5025
+                "stars": 5025,
+                "topics": [
+                  "agnostic",
+                  "angular",
+                  "carousel",
+                  "mobile",
+                  "mobile-web",
+                  "native",
+                  "react",
+                  "react-native",
+                  "slider",
+                  "slideshow",
+                  "touch",
+                  "touch-events",
+                  "vanilla",
+                  "vue",
+                  "vue3",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1257,12 +2284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A <QRCode/> component for use with React.",
+                "homepage": "https://zpao.github.io/qrcode.react/",
                 "id": 17810823,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:04:32Z",
+                "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4284
+                "stars": 4284,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1273,12 +2305,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue",
+                "homepage": "https://yaireo.github.io/tagify/",
                 "id": 70848287,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-27T14:28:39Z",
+                "open_issues": 73,
                 "owner": "yairEO",
                 "repo": "tagify",
-                "stars": 3892
+                "stars": 3892,
+                "topics": [
+                  "angular-component",
+                  "html",
+                  "input",
+                  "javascript",
+                  "react",
+                  "react-component",
+                  "reactjs",
+                  "tagging",
+                  "tagify",
+                  "tags"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1289,12 +2337,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React component for Instagram like stories",
+                "homepage": "https://mohitk05.github.io/react-insta-stories/",
                 "id": 167136952,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-27T18:48:17Z",
+                "open_issues": 144,
                 "owner": "mohitk05",
                 "repo": "react-insta-stories",
-                "stars": 1485
+                "stars": 1485,
+                "topics": [
+                  "instagram",
+                  "react",
+                  "react-components",
+                  "stories",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1305,12 +2364,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop",
+                "homepage": "https://rct.lukasbach.com",
                 "id": 367413306,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T06:26:31Z",
+                "open_issues": 32,
                 "owner": "lukasbach",
                 "repo": "react-complex-tree",
-                "stars": 1381
+                "stars": 1381,
+                "topics": [
+                  "accessible",
+                  "component",
+                  "dnd",
+                  "drag-and-drop",
+                  "draggable",
+                  "hotkeys",
+                  "keyboard",
+                  "react",
+                  "rename",
+                  "search",
+                  "tree",
+                  "types",
+                  "typescript",
+                  "unopinionated"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1321,12 +2400,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏹 Draw arrows between React elements 🖋",
+                "homepage": "https://pierpo.github.io/react-archer/",
                 "id": 123142926,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-05T17:09:07Z",
+                "open_issues": 30,
                 "owner": "pierpo",
                 "repo": "react-archer",
-                "stars": 1343
+                "stars": 1343,
+                "topics": [
+                  "arrow",
+                  "arrows",
+                  "dom",
+                  "draw-arrows",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1337,12 +2427,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React component for editing/viewing JSON/object data",
+                "homepage": "https://carlosnz.github.io/json-edit-react/",
                 "id": 638700752,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-02T01:47:54Z",
+                "open_issues": 21,
                 "owner": "CarlosNZ",
                 "repo": "json-edit-react",
-                "stars": 642
+                "stars": 642,
+                "topics": [
+                  "components",
+                  "javascript",
+                  "json",
+                  "json-inspector",
+                  "json-tree",
+                  "json-viewer",
+                  "json-visualization",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1353,12 +2458,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "❤️ A heart-shaped toggle switch component for React.",
+                "homepage": "https://heart-switch.netlify.app",
                 "id": 460099036,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-06-05T11:20:03Z",
+                "open_issues": 6,
                 "owner": "anatoliygatt",
                 "repo": "heart-switch",
-                "stars": 451
+                "stars": 451,
+                "topics": [
+                  "accessible",
+                  "component",
+                  "javascript",
+                  "react",
+                  "react-component",
+                  "switch",
+                  "toggle",
+                  "toggle-switch",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1376,12 +2496,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+                "homepage": "https://storybook.js.org",
                 "id": 54173593,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:09:18Z",
+                "open_issues": 1774,
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90957
+                "stars": 90958,
+                "topics": [
+                  "angular",
+                  "components",
+                  "design-systems",
+                  "documentation",
+                  "html",
+                  "javascript",
+                  "react",
+                  "react-native",
+                  "stories",
+                  "storybook",
+                  "styleguide",
+                  "svelte",
+                  "testing",
+                  "typescript",
+                  "ui",
+                  "vite",
+                  "vue",
+                  "web-components",
+                  "webpack",
+                  "workshop"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1392,12 +2538,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered development workspaces with reusable components, architectural clarity and zero overhead.",
+                "homepage": "https://bit.dev",
                 "id": 79723839,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:30:27Z",
+                "open_issues": 86,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18466
+                "stars": 18466,
+                "topics": [
+                  "ai",
+                  "collaboration",
+                  "component-driven",
+                  "composable",
+                  "composable-architecture",
+                  "distributed",
+                  "front-end",
+                  "javascript",
+                  "micro-frontend",
+                  "micro-services",
+                  "monorepo",
+                  "multirepo",
+                  "multirepo-maintenance",
+                  "node-js",
+                  "polyrepo",
+                  "react",
+                  "service-oriented-architecture",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1408,12 +2579,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sandbox for developing and testing UI components in isolation",
+                "homepage": "https://reactcosmos.org",
                 "id": 16554395,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:41:41Z",
+                "open_issues": 7,
                 "owner": "react-cosmos",
                 "repo": "react-cosmos",
-                "stars": 8683
+                "stars": 8683,
+                "topics": [
+                  "components",
+                  "devtools",
+                  "react",
+                  "sandbox",
+                  "testing",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1431,12 +2614,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+                "homepage": "https://react-hook-form.com",
                 "id": 174038031,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:57:17Z",
+                "open_issues": 7,
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44843
+                "stars": 44843,
+                "topics": [
+                  "dx",
+                  "form-builder",
+                  "forms",
+                  "react-hooks",
+                  "react-native",
+                  "reactjs",
+                  "typescript",
+                  "ux",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1447,12 +2645,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React component for building Web forms from JSON Schema.",
+                "homepage": "https://rjsf-team.github.io/react-jsonschema-form/",
                 "id": 48117679,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T20:14:02Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:31:22Z",
+                "open_issues": 144,
                 "owner": "rjsf-team",
                 "repo": "react-jsonschema-form",
-                "stars": 15877
+                "stars": 15877,
+                "topics": [
+                  "data-validation",
+                  "forms",
+                  "json",
+                  "json-schema",
+                  "react",
+                  "ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1463,12 +2674,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3",
+                "homepage": "https://formilyjs.org/",
                 "id": 164768889,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-21T01:46:14Z",
+                "open_issues": 140,
                 "owner": "alibaba",
                 "repo": "formily",
-                "stars": 12566
+                "stars": 12566,
+                "topics": [
+                  "ant-design",
+                  "designable",
+                  "form",
+                  "form-builder",
+                  "fusion",
+                  "json-schema",
+                  "json-schema-form",
+                  "low-code",
+                  "no-code",
+                  "observable",
+                  "react",
+                  "react-form",
+                  "react-native",
+                  "reactive",
+                  "schema-form",
+                  "validator",
+                  "vue",
+                  "vue-form",
+                  "vue3"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1479,12 +2715,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.",
+                "homepage": "https://tanstack.com/form",
                 "id": 75044525,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:25:18Z",
+                "open_issues": 181,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6675
+                "stars": 6676,
+                "topics": [
+                  "angular",
+                  "form",
+                  "forms",
+                  "hacktoberfest",
+                  "hooks",
+                  "lit",
+                  "react",
+                  "solid",
+                  "tanstack",
+                  "vue",
+                  "yup",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1502,12 +2756,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table",
+                "homepage": "https://tanstack.com/table",
                 "id": 71487058,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:47:51Z",
+                "open_issues": 58,
                 "owner": "TanStack",
                 "repo": "table",
-                "stars": 28390
+                "stars": 28390,
+                "topics": [
+                  "datagrid",
+                  "datagrids",
+                  "datatable",
+                  "filtering",
+                  "grid",
+                  "grouping",
+                  "hooks",
+                  "javascript",
+                  "pagination",
+                  "react",
+                  "reactjs",
+                  "solid",
+                  "solidjs",
+                  "sorting",
+                  "svelte",
+                  "sveltejs",
+                  "table",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1518,12 +2797,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+                "homepage": "https://react-grid-layout.github.io/react-grid-layout/examples/00-showcase.html",
                 "id": 28538501,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T14:05:10Z",
+                "open_issues": 62,
                 "owner": "react-grid-layout",
                 "repo": "react-grid-layout",
-                "stars": 22400
+                "stars": 22401,
+                "topics": [
+                  "drag-and-drop",
+                  "es2015",
+                  "grid",
+                  "javascript",
+                  "react",
+                  "resize"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1534,12 +2825,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature-rich and customizable data grid React component",
+                "homepage": "https://comcast.github.io/react-data-grid/",
                 "id": 31764022,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T19:07:28Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:23:29Z",
+                "open_issues": 74,
                 "owner": "Comcast",
                 "repo": "react-data-grid",
-                "stars": 7670
+                "stars": 7670,
+                "topics": [
+                  "react",
+                  "react-data-grid"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1557,12 +2856,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React friendly API wrapper around MapboxGL JS",
+                "homepage": "http://visgl.github.io/react-map-gl/",
                 "id": 43903882,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-06T01:25:28Z",
+                "open_issues": 99,
                 "owner": "visgl",
                 "repo": "react-map-gl",
-                "stars": 8496
+                "stars": 8496,
+                "topics": [
+                  "data-visualization",
+                  "map",
+                  "mapbox-gl",
+                  "mapbox-gl-js",
+                  "react",
+                  "uber",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1573,12 +2885,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React components for Leaflet maps",
+                "homepage": "https://react-leaflet.js.org",
                 "id": 22571796,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-31T13:03:00Z",
+                "open_issues": 48,
                 "owner": "PaulLeCam",
                 "repo": "react-leaflet",
-                "stars": 5597
+                "stars": 5597,
+                "topics": [
+                  "javascript",
+                  "leaflet",
+                  "leaflet-maps",
+                  "map",
+                  "react",
+                  "react-components",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1596,12 +2921,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+                "homepage": "https://xyflow.com",
                 "id": 197018189,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T18:09:24Z",
+                "open_issues": 129,
                 "owner": "xyflow",
                 "repo": "xyflow",
-                "stars": 38182
+                "stars": 38183,
+                "topics": [
+                  "flowchart",
+                  "graph",
+                  "javascript",
+                  "node-based-ui",
+                  "react",
+                  "react-flow",
+                  "svelte",
+                  "svelte-flow",
+                  "typescript",
+                  "typescript-library",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1612,12 +2954,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redefined chart library built with React and D3",
+                "homepage": "https://recharts.github.io",
                 "id": 40345658,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:26:29Z",
+                "open_issues": 437,
                 "owner": "recharts",
                 "repo": "recharts",
-                "stars": 27521
+                "stars": 27522,
+                "topics": [
+                  "chart",
+                  "charting-library",
+                  "components",
+                  "d3",
+                  "data-visualisation",
+                  "javascript",
+                  "react",
+                  "recharts",
+                  "typescript",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1628,12 +2986,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐯 visx | visualization components",
+                "homepage": "https://visx.airbnb.tech",
                 "id": 85095608,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T14:25:22Z",
+                "open_issues": 148,
                 "owner": "airbnb",
                 "repo": "visx",
-                "stars": 21027
+                "stars": 21027,
+                "topics": [
+                  "chart",
+                  "d3",
+                  "data-visualization",
+                  "react",
+                  "svg",
+                  "visualization",
+                  "visx",
+                  "vx"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1644,12 +3016,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries",
+                "homepage": "https://nivo.rocks",
                 "id": 56363563,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-21T02:46:40Z",
+                "open_issues": 50,
                 "owner": "plouc",
                 "repo": "nivo",
-                "stars": 14092
+                "stars": 14092,
+                "topics": [
+                  "canvas",
+                  "charts",
+                  "components",
+                  "d3js",
+                  "dataviz",
+                  "isomorphic",
+                  "react",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1660,12 +3046,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of composable React components for building interactive data visualizations",
+                "homepage": "http://commerce.nearform.com/open-source/victory/",
                 "id": 38460192,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-19T23:11:18Z",
+                "open_issues": 91,
                 "owner": "FormidableLabs",
                 "repo": "victory",
-                "stars": 11243
+                "stars": 11243,
+                "topics": [
+                  "charts",
+                  "d3",
+                  "data-visualization",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1676,12 +3072,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Visualization Components",
+                "homepage": "https://uber.github.io/react-vis",
                 "id": 52304362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-12-18T22:24:34Z",
+                "open_issues": 343,
                 "owner": "uber",
                 "repo": "react-vis",
-                "stars": 8789
+                "stars": 8789,
+                "topics": [
+                  "chart",
+                  "charting-library",
+                  "data-visualization",
+                  "react",
+                  "uber",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1699,12 +3107,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎥      Make videos programmatically with React",
+                "homepage": "https://remotion.dev",
                 "id": 274495425,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:12:05Z",
+                "open_issues": 173,
                 "owner": "remotion-dev",
                 "repo": "remotion",
-                "stars": 57632
+                "stars": 57642,
+                "topics": [
+                  "javascript",
+                  "react",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1715,12 +3132,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌈 React for interactive command-line apps",
+                "homepage": "https://term.ink",
                 "id": 94061307,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:52:24Z",
+                "open_issues": 32,
                 "owner": "vadimdemedes",
                 "repo": "ink",
-                "stars": 39754
+                "stars": 39755,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "flexbox",
+                  "interactive",
+                  "javascript",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1731,12 +3160,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🇨🇭 A React renderer for Three.js",
+                "homepage": "https://docs.pmnd.rs/react-three-fiber",
                 "id": 172521926,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:28:41Z",
+                "open_issues": 51,
                 "owner": "pmndrs",
                 "repo": "react-three-fiber",
-                "stars": 31820
+                "stars": 31821,
+                "topics": [
+                  "3d",
+                  "animation",
+                  "fiber",
+                  "react",
+                  "renderer",
+                  "threejs"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1747,12 +3188,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📄  Create PDF files using React",
+                "homepage": "https://react-pdf.org",
                 "id": 71293321,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T23:35:14Z",
+                "open_issues": 309,
                 "owner": "diegomura",
                 "repo": "react-pdf",
-                "stars": 16761
+                "stars": 16761,
+                "topics": [
+                  "flexbox",
+                  "pdf",
+                  "react",
+                  "renderer"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1763,12 +3214,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚛️ A React renderer for Figma",
+                "homepage": "https://react-figma.dev",
                 "id": 201732237,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T01:26:09Z",
+                "open_issues": 63,
                 "owner": "react-figma",
                 "repo": "react-figma",
-                "stars": 2692
+                "stars": 2692,
+                "topics": [
+                  "figma",
+                  "figma-plugins",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1779,12 +3239,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!",
+                "homepage": "https://markdown-to-jsx.quantizor.dev/",
                 "id": 47486737,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-14T01:30:22Z",
+                "open_issues": 15,
                 "owner": "quantizor",
                 "repo": "markdown-to-jsx",
-                "stars": 2385
+                "stars": 2385,
+                "topics": [
+                  "ast",
+                  "gfm",
+                  "jsx",
+                  "markdown",
+                  "react",
+                  "solidjs",
+                  "vue",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1802,12 +3276,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The monorepo home to all of the FormatJS related libraries, most notably react-intl.",
+                "homepage": "https://formatjs.github.io/",
                 "id": 19117456,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-28T20:01:24Z",
+                "open_issues": 12,
                 "owner": "formatjs",
                 "repo": "formatjs",
-                "stars": 14745
+                "stars": 14745,
+                "topics": [
+                  "formatjs",
+                  "globalization",
+                  "i18n",
+                  "internationalization",
+                  "intl",
+                  "javascript",
+                  "localization",
+                  "react",
+                  "translation",
+                  "ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1818,12 +3309,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+                "homepage": "https://react.i18next.com",
                 "id": 47878060,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T10:22:58Z",
+                "open_issues": 1,
                 "owner": "i18next",
                 "repo": "react-i18next",
-                "stars": 10039
+                "stars": 10039,
+                "topics": [
+                  "i18n",
+                  "i18next",
+                  "internationalization",
+                  "react",
+                  "react-native",
+                  "ssr",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1834,12 +3338,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually.",
+                "homepage": "https://intlayer.org",
                 "id": 776924173,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:37:24Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:19:02Z",
+                "open_issues": 14,
                 "owner": "aymericzip",
                 "repo": "intlayer",
-                "stars": 812
+                "stars": 813,
+                "topics": [
+                  "cms",
+                  "content",
+                  "content-management",
+                  "i18n",
+                  "internationalisation",
+                  "javascript",
+                  "l10n",
+                  "localization",
+                  "multilingual",
+                  "nextjs",
+                  "node",
+                  "react-native",
+                  "reactjs",
+                  "typescript",
+                  "vitejs"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1857,12 +3382,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern animation library for React and JavaScript",
+                "homepage": "https://motion.dev",
                 "id": 157846876,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T11:26:28Z",
+                "open_issues": 107,
                 "owner": "motiondivision",
                 "repo": "motion",
-                "stars": 33395
+                "stars": 33395,
+                "topics": [
+                  "animation",
+                  "animation-js",
+                  "motion",
+                  "react",
+                  "reactanimations",
+                  "spring"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1873,12 +3410,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✌️ A spring physics based React animation library",
+                "homepage": "http://www.react-spring.dev/",
                 "id": 124257233,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T18:36:07Z",
+                "open_issues": 74,
                 "owner": "pmndrs",
                 "repo": "react-spring",
-                "stars": 29142
+                "stars": 29141,
+                "topics": [
+                  "animation-library",
+                  "react",
+                  "react-spring",
+                  "spring-physics",
+                  "springs"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1889,12 +3437,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.",
+                "homepage": "https://auto-animate.formkit.com",
                 "id": 491235501,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-10T16:08:00Z",
+                "open_issues": 42,
                 "owner": "formkit",
                 "repo": "auto-animate",
-                "stars": 13911
+                "stars": 13911,
+                "topics": [
+                  "animation",
+                  "javascript",
+                  "react",
+                  "ui",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1905,12 +3464,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components.",
+                "homepage": "https://particles.js.org",
                 "id": 238514517,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:05:44Z",
+                "open_issues": 22,
                 "owner": "tsparticles",
                 "repo": "tsparticles",
-                "stars": 8972
+                "stars": 8972,
+                "topics": [
+                  "2d",
+                  "angular",
+                  "animations",
+                  "bg",
+                  "canvas",
+                  "confetti",
+                  "fireworks",
+                  "hacktoberfest",
+                  "html",
+                  "javascript",
+                  "js",
+                  "npm",
+                  "particles",
+                  "react",
+                  "svelte",
+                  "ts",
+                  "tsparticles",
+                  "typescript",
+                  "vue",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1921,12 +3506,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy Parallax Effect for React & JavaScript",
+                "homepage": "https://simpleparallax.com",
                 "id": 110072462,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-14T19:54:04Z",
+                "open_issues": 12,
                 "owner": "geosigno",
                 "repo": "simpleParallax.js",
-                "stars": 2157
+                "stars": 2157,
+                "topics": [
+                  "animation",
+                  "image",
+                  "javacript",
+                  "parallax",
+                  "react",
+                  "scroll",
+                  "simple",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1937,12 +3536,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👀  Easily apply tilt hover effect to React components - lightweight/zero dependencies 2.9kB",
+                "homepage": "https://mkosir.github.io/react-parallax-tilt",
                 "id": 201018683,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T06:46:24Z",
+                "open_issues": 1,
                 "owner": "mkosir",
                 "repo": "react-parallax-tilt",
-                "stars": 1078
+                "stars": 1078,
+                "topics": [
+                  "gyroscope",
+                  "parallax",
+                  "parallax-effect",
+                  "react",
+                  "react-library",
+                  "react-tilt",
+                  "tilt",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1960,12 +3573,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.",
+                "homepage": "https://rescript-lang.org",
                 "id": 49159983,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:19:48Z",
+                "open_issues": 166,
                 "owner": "rescript-lang",
                 "repo": "rescript",
-                "stars": 7434
+                "stars": 7434,
+                "topics": [
+                  "altjs",
+                  "compiler",
+                  "javascript",
+                  "rescript"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -1976,12 +3599,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for development of single-page full-stack web applications in clj/cljs",
+                "homepage": "http://fulcro.fulcrologic.com",
                 "id": 97032158,
                 "language": "Clojure",
+                "license": "MIT",
                 "last_commit": "2026-07-15T18:10:11Z",
+                "open_issues": 2,
                 "owner": "fulcrologic",
                 "repo": "fulcro",
-                "stars": 1611
+                "stars": 1611,
+                "topics": [
+                  "clojurescript",
+                  "data-driven",
+                  "full-stack",
+                  "react",
+                  "reactjs",
+                  "web-application-development"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -1999,12 +3634,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+                "homepage": "https://mattermost.com",
                 "id": 37448451,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:38:16Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:05:43Z",
+                "open_issues": 997,
                 "owner": "mattermost",
                 "repo": "mattermost",
-                "stars": 38934
+                "stars": 38936,
+                "topics": [
+                  "collaboration",
+                  "golang",
+                  "hacktoberfest",
+                  "mattermost",
+                  "monorepo",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2015,12 +3663,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.",
+                "homepage": "https://readest.com",
                 "id": 871781831,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T19:39:03Z",
+                "open_issues": 102,
                 "owner": "readest",
                 "repo": "readest",
-                "stars": 23837
+                "stars": 23843,
+                "topics": [
+                  "calibre",
+                  "cross-platform",
+                  "ebook",
+                  "ebook-reader",
+                  "epub",
+                  "foliate",
+                  "kindle",
+                  "koreader",
+                  "koreader-plugin",
+                  "mobi",
+                  "nextjs",
+                  "opds",
+                  "pdf",
+                  "reader",
+                  "sync",
+                  "tauri",
+                  "tts",
+                  "webdav"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2031,12 +3703,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source, AI-integrated, cross-platform terminal for seamless workflows",
+                "homepage": "https://www.waveterm.dev",
                 "id": 501045649,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T18:53:52Z",
+                "open_issues": 560,
                 "owner": "wavetermdev",
                 "repo": "waveterm",
-                "stars": 22138
+                "stars": 22141,
+                "topics": [
+                  "command-line",
+                  "developer-tools",
+                  "linux",
+                  "macos",
+                  "productivity",
+                  "terminal",
+                  "terminal-emulators",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2047,12 +3733,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your window into all of your data",
+                "homepage": "https://www.elastic.co/products/kibana",
                 "id": 7833168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:37:58Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:08:29Z",
+                "open_issues": 14306,
                 "owner": "elastic",
                 "repo": "kibana",
-                "stars": 21269
+                "stars": 21270,
+                "topics": [
+                  "dashboards",
+                  "elasticsearch",
+                  "hacktoberfest",
+                  "kibana",
+                  "metrics",
+                  "observability",
+                  "visualizations"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2063,12 +3762,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Winamp 2 reimplemented for the browser",
+                "homepage": "https://webamp.org",
                 "id": 26149893,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:41:43Z",
+                "open_issues": 176,
                 "owner": "captbaritone",
                 "repo": "webamp",
-                "stars": 11232
+                "stars": 11232,
+                "topics": [
+                  "html5",
+                  "javascript",
+                  "port",
+                  "reimplementation",
+                  "webaudio-api",
+                  "winamp"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2079,12 +3790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal blog by Dan Abramov.",
+                "homepage": "https://overreacted.io",
                 "id": 159876616,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-04T03:29:12Z",
+                "open_issues": 13,
                 "owner": "gaearon",
                 "repo": "overreacted.io",
-                "stars": 7271
+                "stars": 7272,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2095,12 +3811,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source, self-hosted newsletter, email marketing and transactional email platform. Visual MJML editor, Liquid templating, 7 sending providers.",
+                "homepage": "https://www.notifuse.com",
                 "id": 948993169,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T17:18:33Z",
+                "open_issues": 7,
                 "owner": "Notifuse",
                 "repo": "notifuse",
-                "stars": 2087
+                "stars": 2087,
+                "topics": [
+                  "amazon-ses",
+                  "bulk-email",
+                  "campaign-management",
+                  "email-api",
+                  "email-automation",
+                  "email-builder",
+                  "email-marketing",
+                  "email-templates",
+                  "mailchimp-alternative",
+                  "mailgun",
+                  "mailing-list",
+                  "marketing-automation",
+                  "mjml",
+                  "newsletter",
+                  "newsletter-management",
+                  "newsletter-software",
+                  "postmark",
+                  "self-hosted",
+                  "sendgrid",
+                  "transactional-email"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2111,12 +3853,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Car Rental Platform with Mobile App",
+                "homepage": "https://bookcars.github.io",
                 "id": 483825268,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-13T12:28:53Z",
+                "open_issues": 0,
                 "owner": "aelassas",
                 "repo": "bookcars",
-                "stars": 627
+                "stars": 627,
+                "topics": [
+                  "aggregator",
+                  "bookcars",
+                  "car-booking-system",
+                  "car-rental",
+                  "car-rental-system",
+                  "mern",
+                  "mongodb",
+                  "paypal",
+                  "react",
+                  "react-native",
+                  "stripe"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -2140,12 +3899,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for building native applications using React",
+                "homepage": "https://reactnative.dev",
                 "id": 29028775,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:53:52Z",
+                "open_issues": 1102,
                 "owner": "react",
                 "repo": "react-native",
-                "stars": 126443
+                "stars": 126447,
+                "topics": [
+                  "android",
+                  "app-framework",
+                  "cross-platform",
+                  "ios",
+                  "mobile",
+                  "mobile-development",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -2163,12 +3936,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Routing and navigation for React Native and Web apps",
+                "homepage": "https://reactnavigation.org",
                 "id": 80149262,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-26T16:56:33Z",
+                "open_issues": 843,
                 "owner": "react-navigation",
                 "repo": "react-navigation",
-                "stars": 24500
+                "stars": 24500,
+                "topics": [
+                  "navigation",
+                  "react",
+                  "react-native",
+                  "react-navigation"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -2186,12 +3969,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customizable Icons for React Native with support for image source and full styling.",
+                "homepage": "https://oblador.github.io/react-native-vector-icons/",
                 "id": 35685034,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T18:28:18Z",
+                "open_issues": 19,
                 "owner": "oblador",
                 "repo": "react-native-vector-icons",
-                "stars": 17914
+                "stars": 17914,
+                "topics": [
+                  "icon",
+                  "icon-pack",
+                  "react-native",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2202,12 +3995,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💬 The most complete chat UI for React Native",
+                "homepage": "https://gifted.chat",
                 "id": 46180504,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T17:40:19Z",
+                "open_issues": 6,
                 "owner": "FaridSafi",
                 "repo": "react-native-gifted-chat",
-                "stars": 14440
+                "stars": 14440,
+                "topics": [
+                  "chat",
+                  "component",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -2225,12 +4027,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native Mapview component for iOS + Android",
+                "homepage": null,
                 "id": 48764652,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T03:06:36Z",
+                "open_issues": 96,
                 "owner": "react-native-maps",
                 "repo": "react-native-maps",
-                "stars": 15995
+                "stars": 15995,
+                "topics": [
+                  "google-maps",
+                  "maps",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2241,12 +4052,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Device Information for React Native iOS and Android",
+                "homepage": "https://react-native-device-info.github.io/react-native-device-info/",
                 "id": 42590985,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:16:01Z",
+                "open_issues": 15,
                 "owner": "react-native-device-info",
                 "repo": "react-native-device-info",
-                "stars": 6681
+                "stars": 6681,
+                "topics": [
+                  "hacktoberfest",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             },
@@ -2257,12 +4076,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Realm is a mobile database: an alternative to SQLite & key-value stores",
+                "homepage": "https://realm.io",
                 "id": 40667593,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T19:50:56Z",
+                "open_issues": 658,
                 "owner": "realm",
                 "repo": "realm-js",
-                "stars": 6003
+                "stars": 6003,
+                "topics": [
+                  "mobile-database",
+                  "mobile-first",
+                  "nosql-database",
+                  "reactive",
+                  "reactnative",
+                  "realm",
+                  "realm-mobile-database",
+                  "realtime-database"
+                ]
               },
               "first_seen": "2026-08-28T23:48:23.706Z"
             }
@@ -2276,15 +4109,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:48:23.706Z",
+    "last_updated": "2026-08-29T04:10:02.932Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome things regarding React ecosystem",
+      "homepage": null,
       "id": 22670857,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-20T07:58:12Z",
+      "open_issues": 83,
       "owner": "enaqx",
       "repo": "awesome-react",
-      "stars": 74425
+      "stars": 74426,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "javascript",
+        "react",
+        "react-apps",
+        "react-native",
+        "react-tutorial",
+        "samples",
+        "tutorial",
+        "typescript"
+      ]
     },
     "original_repository_sha": "198196cb9bd51d2303e0a0c438bb69afebc2f3ab",
     "enhanced_repository": "enhansome/enhansome-react",
