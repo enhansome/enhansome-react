@@ -36,7 +36,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React General Resources
 
-* [React GitHub](https://github.com/facebook/react) ⭐ 252,195 | 🐛 1,502 | 🌐 JavaScript | 📅 2026-11-06
+* [React GitHub](https://github.com/facebook/react) ⭐ 252,361 | 🐛 1,521 | 🌐 JavaScript | 📅 2026-11-07
 * [React Official Website](https://react.dev/)
 * [Reactiflux Discord Channel](https://www.reactiflux.com/)
 * [React Community](https://react.dev/community)
@@ -45,90 +45,90 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Tutorials
 
-* [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react) ⭐ 47,086 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
-* [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,920 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-13
-* [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react) ⭐ 36,043 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-14
+* [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react) ⭐ 47,085 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
+* [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,918 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-13
+* [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react) ⭐ 36,045 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-14
 * [React Official Tutorial](https://react.dev/learn)
 * [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 * [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 
 #### React Frameworks
 
-* [next](https://github.com/vercel/next.js) ⭐ 143,367 | 🐛 3,836 | 🌐 JavaScript | 📅 2026-11-06 - The React Framework
-* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,916 | 🐛 461 | 🌐 JavaScript | 📅 2026-10-20 - Build modern websites with React
-* [refine](https://github.com/refinedev/refine) ⭐ 36,006 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-10 - Build your React-based CRUD applications, without constraints
-* [remix](https://github.com/remix-run/remix) ⭐ 33,449 | 🐛 83 | 🌐 TypeScript | 📅 2026-11-06 - Full-stack web Framework that lets you focus on the user interface
-* [react-admin](https://github.com/marmelab/react-admin) ⭐ 26,989 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-05 - A frontend Framework for building B2B applications
+* [next](https://github.com/vercel/next.js) ⭐ 143,381 | 🐛 3,864 | 🌐 JavaScript | 📅 2026-11-07 - The React Framework
+* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,918 | 🐛 462 | 🌐 JavaScript | 📅 2026-10-20 - Build modern websites with React
+* [refine](https://github.com/refinedev/refine) ⭐ 36,009 | 🐛 60 | 🌐 TypeScript | 📅 2026-09-10 - Build your React-based CRUD applications, without constraints
+* [remix](https://github.com/remix-run/remix) ⭐ 33,452 | 🐛 88 | 🌐 TypeScript | 📅 2026-11-06 - Full-stack web Framework that lets you focus on the user interface
+* [react-admin](https://github.com/marmelab/react-admin) ⭐ 26,987 | 🐛 59 | 🌐 TypeScript | 📅 2026-11-07 - A frontend Framework for building B2B applications
 * [vike](https://github.com/vikejs/vike) ⭐ 5,838 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-05 - The Modular Framework - Next.js & Nuxt alternative
 
 #### React Component Libraries
 
-* [shadcn-ui](https://github.com/shadcn-ui/ui) ⭐ 127,517 | 🐛 1,770 | 🌐 TypeScript | 📅 2026-11-06 - Beautifully designed components built using Radix UI and Tailwind CSS
-* [ant-design](https://github.com/ant-design/ant-design) ⭐ 100,094 | 🐛 1,149 | 🌐 TypeScript | 📅 2026-11-06 - An enterprise-class UI design language and React UI library
-* [material-ui](https://github.com/mui/material-ui) ⭐ 99,294 | 🐛 1,533 | 🌐 JavaScript | 📅 2026-11-06 - Ready-to-use foundational React components
-* [react-bits](https://github.com/DavidHDev/react-bits) ⭐ 51,388 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-31 - A collection of animated, interactive & fully customizable React components
-* [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,714 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-05 - Component system for building SaaS products with speed
-* [mantine](https://github.com/mantinedev/mantine) ⭐ 31,915 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-04 - Fully featured React components library
-* [headlessui](https://github.com/tailwindlabs/headlessui) ⭐ 28,810 | 🐛 123 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, accessible UI components for React
+* [shadcn-ui](https://github.com/shadcn-ui/ui) ⭐ 127,576 | 🐛 1,772 | 🌐 TypeScript | 📅 2026-11-07 - Beautifully designed components built using Radix UI and Tailwind CSS
+* [ant-design](https://github.com/ant-design/ant-design) ⭐ 100,102 | 🐛 1,148 | 🌐 TypeScript | 📅 2026-11-07 - An enterprise-class UI design language and React UI library
+* [material-ui](https://github.com/mui/material-ui) ⭐ 99,299 | 🐛 1,535 | 🌐 JavaScript | 📅 2026-11-07 - Ready-to-use foundational React components
+* [react-bits](https://github.com/DavidHDev/react-bits) ⭐ 51,456 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-31 - A collection of animated, interactive & fully customizable React components
+* [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,716 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-07 - Component system for building SaaS products with speed
+* [mantine](https://github.com/mantinedev/mantine) ⭐ 31,919 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-07 - Fully featured React components library
+* [headlessui](https://github.com/tailwindlabs/headlessui) ⭐ 28,812 | 🐛 123 | 🌐 TypeScript | 📅 2026-04-13 - Completely unstyled, accessible UI components for React
 * [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) ⭐ 22,612 | 🐛 192 | 🌐 TypeScript | 📅 2026-11-04 - Bootstrap components built with React
 * [fluentui](https://github.com/microsoft/fluentui) ⭐ 20,390 | 🐛 826 | 🌐 TypeScript | 📅 2026-11-06 - Microsoft's Fluent UI
-* [react-email](https://github.com/resend/react-email) ⭐ 19,916 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-06 - Unstyled components for creating beautiful emails
-* [framework7](https://github.com/framework7io/framework7) ⭐ 18,772 | 🐛 237 | 🌐 JavaScript | 📅 2026-10-30 - Full featured HTML framework for building iOS & Android apps
-* [ariakit](https://github.com/ariakit/ariakit) ⭐ 8,630 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-06 - Toolkit for building accessible web apps with React
-* [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) ⭐ 2,064 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-05 - A retro 8-bit themed React component library built on top of shadcn
+* [react-email](https://github.com/resend/react-email) ⭐ 19,915 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-06 - Unstyled components for creating beautiful emails
+* [framework7](https://github.com/framework7io/framework7) ⭐ 18,773 | 🐛 237 | 🌐 JavaScript | 📅 2026-10-30 - Full featured HTML framework for building iOS & Android apps
+* [ariakit](https://github.com/ariakit/ariakit) ⭐ 8,630 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-07 - Toolkit for building accessible web apps with React
+* [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) ⭐ 2,065 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-05 - A retro 8-bit themed React component library built on top of shadcn
 * [billingsdk](https://github.com/dodopayments/billingsdk) ⭐ 511 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-26 - Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui
 * [ruixen-ui](https://github.com/ruixenui/ruixen.com) ⭐ 213 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-12 - Modern, lightweight React component library with elegant design
 
 #### React State Management and Data Fetching
 
-* [redux](https://github.com/reduxjs/redux) ⭐ 61,439 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-20 - Predictable State Container for JavaScript Apps
-* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,899 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - Bear necessities for state management in React
-* [tanstack-query](https://github.com/TanStack/query) ⭐ 50,534 | 🐛 114 | 🌐 TypeScript | 📅 2026-11-06 - Powerful asynchronous state management
-* [immutable-js](https://github.com/immutable-js/immutable-js) ⭐ 33,017 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-05 - Immutable persistent data collections for JavaScript
-* [swr](https://github.com/vercel/swr) ⭐ 32,488 | 🐛 254 | 🌐 TypeScript | 📅 2026-10-16 - React Hooks for Data Fetching
-* [xstate](https://github.com/statelyai/xstate) ⭐ 30,412 | 🐛 123 | 🌐 TypeScript | 📅 2026-11-06 - State machines and statecharts for the modern web
-* [immer](https://github.com/immerjs/immer) ⭐ 29,002 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-31 - Create the next immutable state by mutating the current one
-* [mobx](https://github.com/mobxjs/mobx) ⭐ 28,218 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-06 - Simple, scalable state management
-* [rxdb](https://github.com/pubkey/rxdb) ⭐ 23,418 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-06 - A fast, offline-first, reactive database for JavaScript Applications
+* [redux](https://github.com/reduxjs/redux) ⭐ 61,440 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-20 - Predictable State Container for JavaScript Apps
+* [zustand](https://github.com/pmndrs/zustand) ⭐ 58,901 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - Bear necessities for state management in React
+* [tanstack-query](https://github.com/TanStack/query) ⭐ 50,534 | 🐛 115 | 🌐 TypeScript | 📅 2026-11-07 - Powerful asynchronous state management
+* [immutable-js](https://github.com/immutable-js/immutable-js) ⭐ 33,019 | 🐛 157 | 🌐 TypeScript | 📅 2026-11-05 - Immutable persistent data collections for JavaScript
+* [swr](https://github.com/vercel/swr) ⭐ 32,489 | 🐛 255 | 🌐 TypeScript | 📅 2026-10-16 - React Hooks for Data Fetching
+* [xstate](https://github.com/statelyai/xstate) ⭐ 30,422 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-07 - State machines and statecharts for the modern web
+* [immer](https://github.com/immerjs/immer) ⭐ 29,004 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-31 - Create the next immutable state by mutating the current one
+* [mobx](https://github.com/mobxjs/mobx) ⭐ 28,216 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-07 - Simple, scalable state management
+* [rxdb](https://github.com/pubkey/rxdb) ⭐ 23,419 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-07 - A fast, offline-first, reactive database for JavaScript Applications
 * [jotai](https://github.com/pmndrs/jotai) ⭐ 21,307 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-03 - Primitive and flexible state management for React
-* [apollo-client](https://github.com/apollographql/apollo-client) ⭐ 19,780 | 🐛 410 | 🌐 TypeScript | 📅 2026-11-06 - A fully-featured, production ready caching GraphQL client
-* [relay](https://github.com/facebook/relay) ⭐ 18,976 | 🐛 860 | 🌐 Rust | 📅 2026-11-06 - A framework for building data-driven React applications
+* [apollo-client](https://github.com/apollographql/apollo-client) ⭐ 19,780 | 🐛 411 | 🌐 TypeScript | 📅 2026-11-07 - A fully-featured, production ready caching GraphQL client
+* [relay](https://github.com/facebook/relay) ⭐ 18,977 | 🐛 860 | 🌐 Rust | 📅 2026-11-07 - A framework for building data-driven React applications
 * [effector](https://github.com/effector/effector) ⭐ 4,852 | 🐛 165 | 🌐 TypeScript | 📅 2026-11-06 - Business logic with ease
 
 #### React Styling
 
-* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,047 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-06 - Visual primitives for the component age
-* [emotion](https://github.com/emotion-js/emotion) ⭐ 18,023 | 🐛 400 | 🌐 JavaScript | 📅 2026-10-23 - CSS-in-JS library designed for high performance style composition
+* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,047 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-07 - Visual primitives for the component age
+* [emotion](https://github.com/emotion-js/emotion) ⭐ 18,023 | 🐛 401 | 🌐 JavaScript | 📅 2026-10-23 - CSS-in-JS library designed for high performance style composition
 * [vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,445 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-03 - Zero-runtime Stylesheets-in-TypeScript
 
 #### React Icon Libraries
 
-* [lucide-react](https://github.com/lucide-icons/lucide) ⭐ 25,612 | 🐛 363 | 🌐 TypeScript | 📅 2026-11-06 - Beautiful & consistent icon toolkit
-* [heroicons](https://github.com/tailwindlabs/heroicons) ⭐ 23,901 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12 - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
+* [lucide-react](https://github.com/lucide-icons/lucide) ⭐ 25,627 | 🐛 363 | 🌐 TypeScript | 📅 2026-11-06 - Beautiful & consistent icon toolkit
+* [heroicons](https://github.com/tailwindlabs/heroicons) ⭐ 23,904 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12 - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
 * [react-icons](https://github.com/react-icons/react-icons) ⭐ 12,695 | 🐛 246 | 🌐 TypeScript | 📅 2026-10-23 - SVG React icons of popular icon packs
-* [thesvg](https://github.com/GLINCKER/thesvg) ⭐ 2,965 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-06 - A collection of free SVG icons for popular brands and technologies
+* [thesvg](https://github.com/GLINCKER/thesvg) ⭐ 2,966 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-07 - A collection of free SVG icons for popular brands and technologies
 
 #### React Routing
 
-* [react-router](https://github.com/remix-run/react-router) ⭐ 56,629 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-06 - Declarative routing for React
-* [tanstack-router](https://github.com/TanStack/router) ⭐ 15,288 | 🐛 813 | 🌐 TypeScript | 📅 2026-11-06 - Type-safe router with built-in caching & URL state management
-* [speedy-router](https://github.com/anonrig/router) ⭐ 162 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31 - TanStack Router API rebuilt for faster navigations and SSR
+* [react-router](https://github.com/remix-run/react-router) ⭐ 56,632 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-06 - Declarative routing for React
+* [tanstack-router](https://github.com/TanStack/router) ⭐ 15,290 | 🐛 814 | 🌐 TypeScript | 📅 2026-11-06 - Type-safe router with built-in caching & URL state management
+* [speedy-router](https://github.com/anonrig/router) ⭐ 165 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-31 - TanStack Router API rebuilt for faster navigations and SSR
 
 #### React Development Tools
 
-* [vite](https://github.com/vitejs/vite) ⭐ 83,813 | 🐛 833 | 🌐 TypeScript | 📅 2026-11-06 - Next Generation Frontend Tooling
-* [parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,011 | 🐛 616 | 🌐 Rust | 📅 2026-11-06 - The zero configuration build tool for the web
-* [react-scan](https://github.com/aidenybai/react-scan) ⭐ 21,885 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-16 - Scan for React performance issues and eliminate slow renders in your app
+* [vite](https://github.com/vitejs/vite) ⭐ 83,857 | 🐛 842 | 🌐 TypeScript | 📅 2026-11-06 - Next Generation Frontend Tooling
+* [parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,014 | 🐛 626 | 🌐 Rust | 📅 2026-11-07 - The zero configuration build tool for the web
+* [react-scan](https://github.com/aidenybai/react-scan) ⭐ 21,883 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-16 - Scan for React performance issues and eliminate slow renders in your app
 * [reactotron](https://github.com/infinitered/reactotron) ⭐ 15,596 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-13 - A desktop app for inspecting your React and React Native projects
-* [why-did-you-render](https://github.com/welldone-software/why-did-you-render) ⭐ 12,529 | 🐛 45 | 🌐 JavaScript | 📅 2026-04-15 - Monkey patches React to notify you about avoidable re-renders
+* [why-did-you-render](https://github.com/welldone-software/why-did-you-render) ⭐ 12,528 | 🐛 45 | 🌐 JavaScript | 📅 2026-04-15 - Monkey patches React to notify you about avoidable re-renders
 * [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) ⭐ 9,293 | 🐛 349 | 🌐 JavaScript | 📅 2026-11-04 - React specific linting rules for ESLint
 
 #### React Libraries
 
-* [preact](https://github.com/preactjs/preact) ⭐ 38,984 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-06 - Fast React alternative with the same modern API
-* [floating-ui](https://github.com/floating-ui/floating-ui) ⭐ 32,789 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-04 - Toolkit to create floating elements
-* [ai-sdk](https://github.com/vercel/ai) ⭐ 27,782 | 🐛 1,502 | 🌐 TypeScript | 📅 2026-11-06 - The AI Toolkit for TypeScript and React from the creators of Next.js
-* [downshift](https://github.com/downshift-js/downshift) ⭐ 12,303 | 🐛 59 | 🌐 JavaScript | 📅 2026-06-30 - React autocomplete, combobox or select dropdown components
+* [preact](https://github.com/preactjs/preact) ⭐ 38,988 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-06 - Fast React alternative with the same modern API
+* [floating-ui](https://github.com/floating-ui/floating-ui) ⭐ 32,793 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-04 - Toolkit to create floating elements
+* [ai-sdk](https://github.com/vercel/ai) ⭐ 27,802 | 🐛 1,505 | 🌐 TypeScript | 📅 2026-11-07 - The AI Toolkit for TypeScript and React from the creators of Next.js
+* [downshift](https://github.com/downshift-js/downshift) ⭐ 12,303 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-07 - React autocomplete, combobox or select dropdown components
 * [react-error-boundary](https://github.com/bvaughn/react-error-boundary) ⭐ 8,000 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - A React error boundary component that lets you catch errors
 * [loadable-components](https://github.com/gregberge/loadable-components) ⭐ 7,795 | 🐛 52 | 🌐 JavaScript | 📅 2025-05-18 - The recommended Code Splitting library for React
 * [react-uploady](https://github.com/rpldy/react-uploady) ⭐ 1,253 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-03 - Modern file-upload components & hooks for React
@@ -136,21 +136,21 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Testing
 
-* [playwright](https://github.com/microsoft/playwright) ⭐ 99,463 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-06 - A framework for Web Testing and Automation
-* [cypress](https://github.com/cypress-io/cypress) ⭐ 51,021 | 🐛 1,165 | 🌐 TypeScript | 📅 2026-11-06 - Fast, easy and reliable testing for anything that runs in a browser
-* [jest](https://github.com/jestjs/jest) ⭐ 45,467 | 🐛 254 | 🌐 TypeScript | 📅 2026-11-05 - Delightful JavaScript Testing
-* [react-testing-library](https://github.com/testing-library/react-testing-library) ⭐ 19,676 | 🐛 86 | 🌐 JavaScript | 📅 2026-08-27 - Simple and complete React DOM testing utilities
+* [playwright](https://github.com/microsoft/playwright) ⭐ 99,534 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-07 - A framework for Web Testing and Automation
+* [cypress](https://github.com/cypress-io/cypress) ⭐ 51,021 | 🐛 1,163 | 🌐 TypeScript | 📅 2026-11-07 - Fast, easy and reliable testing for anything that runs in a browser
+* [jest](https://github.com/jestjs/jest) ⭐ 45,471 | 🐛 264 | 🌐 TypeScript | 📅 2026-11-05 - Delightful JavaScript Testing
+* [react-testing-library](https://github.com/testing-library/react-testing-library) ⭐ 19,679 | 🐛 86 | 🌐 JavaScript | 📅 2026-08-27 - Simple and complete React DOM testing utilities
 
 #### React Awesome Components
 
-* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,816 | 🐛 124 | 📅 2026-01-26
-* [swiper](https://github.com/nolimits4web/swiper) ⭐ 41,906 | 🐛 232 | 🌐 TypeScript | 📅 2026-10-30 - Most modern mobile touch slider
+* [Awesome React Components](https://github.com/brillout/awesome-react-components) ⭐ 48,826 | 🐛 124 | 📅 2026-01-26
+* [swiper](https://github.com/nolimits4web/swiper) ⭐ 41,907 | 🐛 232 | 🌐 TypeScript | 📅 2026-10-30 - Most modern mobile touch slider
 * [react-select](https://github.com/JedWatson/react-select) ⭐ 28,014 | 🐛 497 | 🌐 TypeScript | 📅 2026-07-16 - The Select Component for React
-* [puck](https://github.com/puckeditor/puck) ⭐ 13,638 | 🐛 206 | 🌐 TypeScript | 📅 2026-11-06 - The visual editor for React
+* [puck](https://github.com/puckeditor/puck) ⭐ 13,646 | 🐛 207 | 🌐 TypeScript | 📅 2026-11-06 - The visual editor for React
 * [react-hot-toast](https://github.com/timolins/react-hot-toast) ⭐ 10,993 | 🐛 142 | 🌐 TypeScript | 📅 2026-09-16 - Lightweight and customizable toast notifications for React
-* [react-big-calendar](https://github.com/bigcalendar/react-big-calendar) ⭐ 8,763 | 🐛 126 | 🌐 JavaScript | 📅 2026-06-01 - Calendar component
+* [react-big-calendar](https://github.com/bigcalendar/react-big-calendar) ⭐ 8,763 | 🐛 127 | 🌐 JavaScript | 📅 2026-06-01 - Calendar component
 * [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) ⭐ 8,389 | 🐛 94 | 🌐 TypeScript | 📅 2026-04-02 - A simple and reusable datepicker component for React
-* [kbar](https://github.com/timc1/kbar) ⭐ 5,261 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Fast, portable, and extensible cmd+k interface for your site
+* [kbar](https://github.com/timc1/kbar) ⭐ 5,262 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - Fast, portable, and extensible cmd+k interface for your site
 * [keen-slider](https://github.com/rcbyr/keen-slider) ⭐ 5,017 | 🐛 149 | 🌐 TypeScript | 📅 2026-01-22 - The Touch slider carousel
 * [react-qrcode](https://github.com/zpao/qrcode.react) ⭐ 4,295 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-06 - QR component for use with React
 * [tagify](https://github.com/yairEO/tagify) ⭐ 3,894 | 🐛 75 | 🌐 HTML | 📅 2026-10-19 - Lightweight, efficient Tags input component
@@ -162,105 +162,105 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Components Sandboxes
 
-* [storybook](https://github.com/storybookjs/storybook) ⭐ 91,468 | 🐛 1,760 | 🌐 TypeScript | 📅 2026-11-06 - Storybook is a frontend workshop for building UI components and pages in isolation
+* [storybook](https://github.com/storybookjs/storybook) ⭐ 91,480 | 🐛 1,764 | 🌐 TypeScript | 📅 2026-11-07 - Storybook is a frontend workshop for building UI components and pages in isolation
 * [bit](https://github.com/teambit/bit) ⭐ 18,505 | 🐛 74 | 🌐 TypeScript | 📅 2026-11-06 - A build system for development of composable software
-* [react-cosmos](https://github.com/react-cosmos/react-cosmos) ⭐ 8,694 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30 - Dev tool for creating reusable React components
+* [react-cosmos](https://github.com/react-cosmos/react-cosmos) ⭐ 8,693 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-30 - Dev tool for creating reusable React components
 
 #### React Forms
 
-* [react-hook-form](https://github.com/react-hook-form/react-hook-form) ⭐ 44,907 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-06 - React Hooks for form state management and validation
-* [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) ⭐ 15,935 | 🐛 87 | 🌐 TypeScript | 📅 2026-11-06 - A React component for building Web forms from JSON Schema
+* [react-hook-form](https://github.com/react-hook-form/react-hook-form) ⭐ 44,907 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-07 - React Hooks for form state management and validation
+* [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) ⭐ 15,935 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-07 - A React component for building Web forms from JSON Schema
 * [formily](https://github.com/alibaba/formily) ⭐ 12,589 | 🐛 143 | 🌐 TypeScript | 📅 2025-06-21 - Alibaba Group Unified Form Solution
-* [tanstack-form](https://github.com/TanStack/form) ⭐ 6,766 | 🐛 232 | 🌐 TypeScript | 📅 2026-11-03 - Headless, performant, and type-safe form state management
+* [tanstack-form](https://github.com/TanStack/form) ⭐ 6,767 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-03 - Headless, performant, and type-safe form state management
 * [formisch](https://github.com/open-circle/formisch) ⭐ 1,218 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-31 - The schema-based, headless form library for React
 
 #### React Tables and Grids
 
-* [tanstack-table](https://github.com/TanStack/table) ⭐ 28,551 | 🐛 83 | 🌐 TypeScript | 📅 2026-11-02 - Headless UI for building powerful tables & datagrids
-* [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) ⭐ 22,482 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-03 - A draggable and resizable grid layout with responsive breakpoints
+* [tanstack-table](https://github.com/TanStack/table) ⭐ 28,553 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-02 - Headless UI for building powerful tables & datagrids
+* [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) ⭐ 22,485 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-03 - A draggable and resizable grid layout with responsive breakpoints
 * [react-data-grid](https://github.com/Comcast/react-data-grid) ⭐ 7,693 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-06 - Feature-rich and customizable data grid React component
 
 #### React Maps
 
 * [react-map-gl](https://github.com/visgl/react-map-gl) ⭐ 8,513 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-24 - React friendly API wrapper around MapboxGL JS
-* [react-leaflet](https://github.com/PaulLeCam/react-leaflet) ⭐ 5,607 | 🐛 48 | 🌐 TypeScript | 📅 2025-12-31 - React components for Leaflet maps
+* [react-leaflet](https://github.com/PaulLeCam/react-leaflet) ⭐ 5,607 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-07 - React components for Leaflet maps
 
 #### React Charts
 
-* [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,923 | 🐛 135 | 🌐 TypeScript | 📅 2026-11-06 - A customizable React component for building node-based editors and interactive diagrams
-* [recharts](https://github.com/recharts/recharts) ⭐ 27,689 | 🐛 468 | 🌐 TypeScript | 📅 2026-11-05 - Redefined chart library built with React and D3
+* [xyflow](https://github.com/xyflow/xyflow) ⭐ 38,929 | 🐛 137 | 🌐 TypeScript | 📅 2026-11-06 - A customizable React component for building node-based editors and interactive diagrams
+* [recharts](https://github.com/recharts/recharts) ⭐ 27,690 | 🐛 471 | 🌐 TypeScript | 📅 2026-11-07 - Redefined chart library built with React and D3
 * [visx](https://github.com/airbnb/visx) ⭐ 21,096 | 🐛 160 | 🌐 TypeScript | 📅 2026-06-22 - Visualization components
 * [nivo](https://github.com/plouc/nivo) ⭐ 14,130 | 🐛 72 | 🌐 TypeScript | 📅 2026-07-21 - Provides a rich set of data visualization components built on top of the D3 and React libraries
-* [victory](https://github.com/FormidableLabs/victory) ⭐ 11,245 | 🐛 98 | 🌐 HTML | 📅 2026-11-06 - A collection of composable React components for building interactive data visualizations
+* [victory](https://github.com/FormidableLabs/victory) ⭐ 11,245 | 🐛 99 | 🌐 HTML | 📅 2026-11-07 - A collection of composable React components for building interactive data visualizations
 * [react-vis](https://github.com/uber/react-vis) ⭐ 8,786 | 🐛 343 | 🌐 JavaScript | 📅 2024-12-18 - Data Visualization Components
 
 #### React Renderers
 
-* [remotion](https://github.com/remotion-dev/remotion) ⭐ 71,267 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-06 - Make videos programmatically with React
-* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,237 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-31 - React for interactive command-line apps
-* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 33,535 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-21 - A React renderer for Three.js
+* [remotion](https://github.com/remotion-dev/remotion) ⭐ 71,485 | 🐛 197 | 🌐 TypeScript | 📅 2026-11-07 - Make videos programmatically with React
+* [ink](https://github.com/vadimdemedes/ink) ⭐ 40,239 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-31 - React for interactive command-line apps
+* [react-three-fiber](https://github.com/pmndrs/react-three-fiber) ⭐ 33,560 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-21 - A React renderer for Three.js
 * [react-pdf](https://github.com/diegomura/react-pdf) ⭐ 16,851 | 🐛 365 | 🌐 TypeScript | 📅 2026-11-03 - Create PDF files using React
-* [markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 3,051 | 🐛 0 | 🌐 Vue | 📅 2026-11-06 - Streaming Markdown renderer for React and AI chat interfaces
+* [markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 3,053 | 🐛 0 | 🌐 Vue | 📅 2026-11-06 - Streaming Markdown renderer for React and AI chat interfaces
 * [react-figma](https://github.com/react-figma/react-figma) ⭐ 2,691 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-26 - A React renderer for Figma
-* [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) ⭐ 2,394 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-06 - A very fast and versatile markdown toolchain
+* [markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) ⭐ 2,394 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-06 - A very fast and versatile markdown toolchain
 
 #### React Internationalization
 
-* [formatjs](https://github.com/formatjs/formatjs) ⭐ 14,753 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-06 - Internationalize your web apps
-* [react-i18next](https://github.com/i18next/react-i18next) ⭐ 10,064 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05 - Internationalization for React done right
-* [react-intlayer](https://github.com/aymericzip/intlayer) ⭐ 863 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-04 - Internationalization focused on maintainability for React
+* [formatjs](https://github.com/formatjs/formatjs) ⭐ 14,753 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-07 - Internationalize your web apps
+* [react-i18next](https://github.com/i18next/react-i18next) ⭐ 10,064 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-07 - Internationalization for React done right
+* [react-intlayer](https://github.com/aymericzip/intlayer) ⭐ 863 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-07 - Internationalization focused on maintainability for React
 
 #### React Graphics and Animations
 
-* [framer-motion](https://github.com/motiondivision/motion) ⭐ 34,961 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-06 - Open source, production-ready animation and gesture library for React
-* [react-spring](https://github.com/pmndrs/react-spring) ⭐ 29,261 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-01 - A spring physics based React animation library
-* [auto-animate](https://github.com/formkit/auto-animate) ⭐ 13,958 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-06 - A zero-config, drop-in animation utility that adds smooth transitions
-* [react-tsparticles](https://github.com/tsparticles/tsparticles) ⭐ 9,076 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-06 - Easily create highly customizable particles effects
+* [framer-motion](https://github.com/motiondivision/motion) ⭐ 34,991 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-07 - Open source, production-ready animation and gesture library for React
+* [react-spring](https://github.com/pmndrs/react-spring) ⭐ 29,264 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-01 - A spring physics based React animation library
+* [auto-animate](https://github.com/formkit/auto-animate) ⭐ 13,962 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-07 - A zero-config, drop-in animation utility that adds smooth transitions
+* [react-tsparticles](https://github.com/tsparticles/tsparticles) ⭐ 9,078 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-07 - Easily create highly customizable particles effects
 * [simple-parallax-js](https://github.com/geosigno/simpleParallax.js) ⭐ 2,160 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-14 - The easiest way to get a parallax effect with React and JavaScript
 * [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) ⭐ 1,083 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - Easily apply tilt hover effect on React components
 
 #### React Integration
 
-* [rescript-compiler](https://github.com/rescript-lang/rescript) ⭐ 7,478 | 🐛 159 | 🌐 OCaml | 📅 2026-11-06 - A robustly typed language that compiles to efficient and human-readable JavaScript
+* [rescript-compiler](https://github.com/rescript-lang/rescript) ⭐ 7,480 | 🐛 174 | 🌐 OCaml | 📅 2026-11-07 - A robustly typed language that compiles to efficient and human-readable JavaScript
 * [fulcro](https://github.com/fulcrologic/fulcro) ⭐ 1,614 | 🐛 1 | 🌐 Clojure | 📅 2026-10-31 - A library for development of web applications in clj/cljs
 
 #### React Real Apps
 
-* [excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 135,242 | 🐛 3,493 | 🌐 TypeScript | 📅 2026-11-06 - An open source virtual hand-drawn style whiteboard.
-* [mattermost-server](https://github.com/mattermost/mattermost) ⭐ 39,549 | 🐛 1,118 | 🌐 TypeScript | 📅 2026-11-06 - An open source platform for secure collaboration
-* [readest](https://github.com/readest/readest) ⭐ 26,012 | 🐛 105 | 🌐 TypeScript | 📅 2026-11-06 - A minimalistic, feature-rich and cross-platform eBook reader
+* [excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 135,293 | 🐛 3,497 | 🌐 TypeScript | 📅 2026-11-07 - An open source virtual hand-drawn style whiteboard.
+* [mattermost-server](https://github.com/mattermost/mattermost) ⭐ 39,555 | 🐛 1,103 | 🌐 TypeScript | 📅 2026-11-07 - An open source platform for secure collaboration
+* [readest](https://github.com/readest/readest) ⭐ 26,039 | 🐛 122 | 🌐 TypeScript | 📅 2026-11-07 - A minimalistic, feature-rich and cross-platform eBook reader
 * [wave](https://github.com/wavetermdev/waveterm) ⭐ 22,670 | 🐛 586 | 🌐 Go | 📅 2026-11-06 - An open-source, cross-platform terminal for seamless workflows
-* [kibana](https://github.com/elastic/kibana) ⭐ 21,354 | 🐛 14,853 | 🌐 TypeScript | 📅 2026-11-06 - Your window into the Elastic Stack
+* [kibana](https://github.com/elastic/kibana) ⭐ 21,356 | 🐛 14,826 | 🌐 TypeScript | 📅 2026-11-07 - Your window into the Elastic Stack
 * [webamp](https://github.com/captbaritone/webamp) ⭐ 11,336 | 🐛 188 | 🌐 TypeScript | 📅 2026-11-05 - Winamp 2 reimplemented for the browser
 * [overreacted](https://github.com/gaearon/overreacted.io) ⭐ 7,274 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-18 - Personal blog by Dan Abramov
-* [notifuse](https://github.com/Notifuse/notifuse) ⭐ 2,273 | 🐛 16 | 🌐 Go | 📅 2026-11-06 - Modern self-hosted emailing platform to send newsletters & transactional emails
-* [cate](https://github.com/0-AI-UG/cate) ⭐ 2,228 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-06 - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
-* [bookcars](https://github.com/aelassas/bookcars) ⭐ 641 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - Car rental platform
+* [notifuse](https://github.com/Notifuse/notifuse) ⭐ 2,274 | 🐛 15 | 🌐 Go | 📅 2026-11-07 - Modern self-hosted emailing platform to send newsletters & transactional emails
+* [cate](https://github.com/0-AI-UG/cate) ⭐ 2,228 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-07 - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
+* [bookcars](https://github.com/aelassas/bookcars) ⭐ 641 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07 - Car rental platform
 
 ### React Native
 
 #### React Native General Resources
 
-* [React Native GitHub](https://github.com/facebook/react-native) ⭐ 126,868 | 🐛 1,375 | 🌐 C++ | 📅 2026-11-06
+* [React Native GitHub](https://github.com/facebook/react-native) ⭐ 126,872 | 🐛 1,391 | 🌐 C++ | 📅 2026-11-07
 * [React Native Official Website](https://reactnative.dev/)
 * [React Native Community](https://reactnative.dev/community/overview)
 * [Expo](https://expo.dev/)
 
 #### React Native Navigation
 
-* [react-navigation](https://github.com/react-navigation/react-navigation) ⭐ 24,519 | 🐛 323 | 🌐 TypeScript | 📅 2026-11-06 - Routing and navigation for your React Native apps
+* [react-navigation](https://github.com/react-navigation/react-navigation) ⭐ 24,520 | 🐛 323 | 🌐 TypeScript | 📅 2026-11-07 - Routing and navigation for your React Native apps
 
 #### React Native Awesome Components
 
 * [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) ⭐ 17,926 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-19 - Customizable Icons for React Native
-* [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) ⭐ 14,448 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - The most complete chat UI for React Native
+* [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) ⭐ 14,449 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - The most complete chat UI for React Native
 
 #### React Native Libraries
 
-* [react-native-maps](https://github.com/react-native-maps/react-native-maps) ⭐ 16,014 | 🐛 100 | 🌐 TypeScript | 📅 2026-10-19 - React Native Mapview component
-* [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) ⭐ 6,686 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-06 - Device Information for React Native iOS and Android
+* [react-native-maps](https://github.com/react-native-maps/react-native-maps) ⭐ 16,016 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-19 - React Native Mapview component
+* [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) ⭐ 6,686 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-06 - Device Information for React Native iOS and Android
 * [realm-js](https://github.com/realm/realm-js) ⭐ 6,004 | 🐛 666 | 🌐 TypeScript | 📅 2026-11-02 - A mobile database: an alternative to SQLite & key-value stores
-* [xprem](https://github.com/mercuretechnologies/xprem) ⭐ 706 | 🐛 9 | 🌐 Go | 📅 2026-10-26 - Self-hosted OTA updates for Expo and React Native apps
+* [xprem](https://github.com/mercuretechnologies/xprem) ⭐ 709 | 🐛 9 | 🌐 Go | 📅 2026-10-26 - Self-hosted OTA updates for Expo and React Native apps
 
 ### Contribution
 
@@ -270,4 +270,4 @@ This list began as a personal compilation of interesting things related to React
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
